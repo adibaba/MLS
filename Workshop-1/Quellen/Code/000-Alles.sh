@@ -14,6 +14,6 @@ echo '# Pandoc'
 
 echo ''
 echo '# Ersetzen'
-./050-Ersetzen.php ../../Praesentation/slides.htm
+./050-Ersetzen.php ../../Praesentation/index.htm
 
 echo ''
