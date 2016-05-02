@@ -1,6 +1,28 @@
 
 # <span style="color:#fff">Medienkompetenz</span> {data-background="Grafik/Hintergrund/Medienkompetenz.jpg"}
 
+
+## Medienkompetenz: Allgemein {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
+
+![](Grafik/Medienkompetenz/Baacke.svg)
+
+## Medienkompetenz: Allgemein {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
+
+![](Grafik/Medienkompetenz/Baacke-1.svg)
+
+## Medienkompetenz: Allgemein {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
+
+![](Grafik/Medienkompetenz/Baacke-2.svg)
+
+## Medienkompetenz: Allgemein {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
+
+![](Grafik/Medienkompetenz/Baacke-3.svg)
+
+## Medienkompetenz: Allgemein {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
+
+![](Grafik/Medienkompetenz/Baacke-4.svg)
+
+
 ## Medienkompetenz in der Berufsausbildung {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
 
 ![](Grafik/Medienkompetenz/Medienkompetenz-BIBB-1.svg)
@@ -38,7 +60,10 @@
 
 <div class="quellen">
 
-
+- Baacke, D.
+(1997).
+Medienpädagogik. Grundlagen der Medienkommunikation.
+Tübingen: Niemeyer.
 - Krämer, H., Jordanski, J., Goertz, L.
 (2015).
 Medien anwenden und produzieren: Entwicklung von Medienkompetenz in der Berufsausbildung: Abschlussbericht.

@@ -52,6 +52,28 @@ date: Mai 2016
 
 # <span style="color:#fff">Medienkompetenz</span> {data-background="Grafik/Hintergrund/Medienkompetenz.jpg"}
 
+
+## Medienkompetenz: Allgemein {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
+
+![](Grafik/Medienkompetenz/Baacke.svg)
+
+## Medienkompetenz: Allgemein {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
+
+![](Grafik/Medienkompetenz/Baacke-1.svg)
+
+## Medienkompetenz: Allgemein {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
+
+![](Grafik/Medienkompetenz/Baacke-2.svg)
+
+## Medienkompetenz: Allgemein {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
+
+![](Grafik/Medienkompetenz/Baacke-3.svg)
+
+## Medienkompetenz: Allgemein {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
+
+![](Grafik/Medienkompetenz/Baacke-4.svg)
+
+
 ## Medienkompetenz in der Berufsausbildung {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
 
 ![](Grafik/Medienkompetenz/Medienkompetenz-BIBB-1.svg)
@@ -89,7 +111,10 @@ date: Mai 2016
 
 <div class="quellen">
 
-
+- Baacke, D.
+(1997).
+Medienpädagogik. Grundlagen der Medienkommunikation.
+Tübingen: Niemeyer.
 - Krämer, H., Jordanski, J., Goertz, L.
 (2015).
 Medien anwenden und produzieren: Entwicklung von Medienkompetenz in der Berufsausbildung: Abschlussbericht.
@@ -170,8 +195,36 @@ Grafik: DrawExpress Diagram Lite Bildschirmfoto
 ## Referenzen {data-background="Grafik/Hintergrund/Titel.jpg"}
 
 <div class="quellen">
-- [www.mobil-lernen.com](https://www.mobil-lernen.com/)
-- [www.vdw-nachwuchsstiftung.de/index.php/mobile-learning-in-smart-factories.html](http://www.vdw-nachwuchsstiftung.de/index.php/mobile-learning-in-smart-factories.html)
-- [ddi.uni-paderborn.de/forschung/mls.html](http://ddi.uni-paderborn.de/forschung/mls.html)
+- Diese Präsentation online  
+[adibaba.github.io/MLS](http://adibaba.github.io/MLS/)
+- Die MLS Projektseite  
+[www.mobil-lernen.com](https://www.mobil-lernen.com/)
+- MLS bei der VDW-Nachwuchsstiftung  
+[www.vdw-nachwuchsstiftung.de/index.php/mobile-learning-in-smart-factories.html](http://www.vdw-nachwuchsstiftung.de/index.php/mobile-learning-in-smart-factories.html)
+- MLS bei der Uni Paderborn  
+[ddi.uni-paderborn.de/forschung/mls.html](http://ddi.uni-paderborn.de/forschung/mls.html)
 
+</div>
+
+## Genutzte Software für diese Präsentation
+
+<div class="quellen">
+- Slides - HTML5 Präsentationen per Editor erstellen  
+[slides.com](https://slides.com/)
+- Der Slides-Unterbau (hier genutzt - eher etwas für Techniker)
+    - HTML5 Präsentationen mit reveal.js  
+      [lab.hakim.se/reveal-js/](http://lab.hakim.se/reveal-js/) &middot; [github.com/hakimel/reveal.js](https://github.com/hakimel/reveal.js)
+    - HTML5 Präsentationen aus Markdown generieren  
+      [pandoc.org](http://pandoc.org/)
+- Vektorgrafiken erstellen: yEd Graph Editor  
+[www.yworks.com/products/yed](https://www.yworks.com/products/yed)
+- Vektorgrafiken bearbeiten: Inkscape  
+[inkscape.org/de](https://inkscape.org/de/)
+- Rastergrafiken bearbeiten: Gimp  
+[gimp.org](https://www.gimp.org/)
+- Messdaten darstellen: Gnuplot  
+[www.gnuplot.info](http://www.gnuplot.info/)
+- Quellen für frei nutzbare Grafiken
+    - [search.creativecommons.org/](https://search.creativecommons.org/)
+    - [www.pexels.com](https://www.pexels.com/)
 </div>
