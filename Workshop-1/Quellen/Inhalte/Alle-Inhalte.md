@@ -74,6 +74,27 @@ date: Mai 2016
 ![](Grafik/Medienkompetenz/Baacke-4.svg)
 
 
+## Entwicklung von Medienkompetenz <br/> in der Berufsausbildung {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
+
+Bundesinstitut für Berufsbildung (BIBB)  
+2013 - 2015
+
+## Medienkompetenz in der Berufsausbildung {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
+
+![](Grafik/Medienkompetenz/Medienkompetenz-BIBB-Zielgruppe.svg)
+
+## Medienkompetenz in der Berufsausbildung {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
+
+![](Grafik/Medienkompetenz/Medienkompetenz-BIBB-Aufbau.svg)
+
+## Medienkompetenz in der Berufsausbildung {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
+
+![](Grafik/Medienkompetenz/Medienkompetenz-BIBB-Ergebnis.svg)
+
+## Medienkompetenz in der Berufsausbildung {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
+
+![](Grafik/Medienkompetenz/Medienkompetenz-BIBB-Frage.svg)
+
 ## Medienkompetenz in der Berufsausbildung {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
 
 ![](Grafik/Medienkompetenz/Medienkompetenz-BIBB-1.svg)
@@ -98,12 +119,15 @@ date: Mai 2016
 
 ![](Grafik/Medienkompetenz/Medienkompetenz-BIBB-6.svg)
 
-## Welche Aspekte halten Sie für wichtig? {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
+## Welche Aspekte sollten <br/> im Betrieb geschult werden? {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
 
 ## <span class="iframe">Webseite: [http://pingo.upb.de/MEDIENKOMPETENZ-PINGO-ID](http://pingo.upb.de/MEDIENKOMPETENZ-PINGO-ID)</span> {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
 
 <iframe data-src="http://pingo.upb.de/events/MEDIENKOMPETENZ-PINGO-ID"></iframe>
 
+## {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
+
+![](Grafik/Medienkompetenz/Medienkompetenz-BIBB-Ausbildungsordnungen.svg)
 
 
 
