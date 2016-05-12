@@ -182,7 +182,7 @@ Medien anwenden und produzieren: Entwicklung von Medienkompetenz in der Berufsau
 
 ## Vollständige Handlung {data-background="Grafik/Hintergrund/Didaktik_.jpg"}
 
-![](Grafik/Didaktik/Vollstaendige-handlung.svg)
+![](Grafik/Didaktik/Vollstaendige-Handlung.svg)
 
 ## Referenzen {data-background="Grafik/Hintergrund/Didaktik_.jpg"}
 
