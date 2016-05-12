@@ -7,7 +7,7 @@
 
 ## Vollständige Handlung {data-background="Grafik/Hintergrund/Didaktik_.jpg"}
 
-![](Grafik/Didaktik/Vollstaendige-handlung.svg)
+![](Grafik/Didaktik/Vollstaendige-Handlung.svg)
 
 ## Referenzen {data-background="Grafik/Hintergrund/Didaktik_.jpg"}
 
