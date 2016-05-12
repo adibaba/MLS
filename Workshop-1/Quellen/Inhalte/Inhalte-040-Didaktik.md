@@ -5,6 +5,10 @@
 
 ![](Grafik/Didaktik/DidaktischeSzenarien.svg)
 
+## Vollständige Handlung {data-background="Grafik/Hintergrund/Didaktik_.jpg"}
+
+![](Grafik/Didaktik/Vollstaendige-handlung.svg)
+
 ## Referenzen {data-background="Grafik/Hintergrund/Didaktik_.jpg"}
 
 <div class="quellen">
