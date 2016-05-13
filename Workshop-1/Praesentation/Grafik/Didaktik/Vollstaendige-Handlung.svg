@@ -101,7 +101,7 @@
       <rect x="407.2" y="51" clip-path="url(#clipPath1)" fill="none" width="51" rx="4" ry="4" height="50"/>
     </g>
     <g stroke-linecap="butt" font-size="18px" fill="white" text-rendering="geometricPrecision" font-family="'Arial'" shape-rendering="geometricPrecision" stroke="white" stroke-miterlimit="1.45">
-      <text x="448.9834" xml:space="preserve" y="651.2402" clip-path="url(#clipPath1)" stroke="none">Quelle: </text>
+      <text x="399.958" xml:space="preserve" y="651.2402" clip-path="url(#clipPath1)" stroke="none">Quelle: Riedl (2011)</text>
     </g>
     <g fill="rgb(51,51,51)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(51,51,51)">
       <rect x="127" y="51" clip-path="url(#clipPath1)" width="210" rx="4" ry="4" height="50" stroke="none"/>
