@@ -2,6 +2,20 @@
 # Ergebnisse der Befragungen<br />und Aufbau der Workshops {data-background="Grafik/Hintergrund/Befragungen.jpg"}
 
 
+## Schwerpunkte der Workshops {data-background="Grafik/Hintergrund/Befragungen.jpg"}
+
+![](Grafik/Befragungen/Workshops-Aufbau.svg)
+
+
+## Software-Features {data-background="Grafik/Hintergrund/Befragungen.jpg"}
+
+- Welche Software-Features kennen Auszubildende?
+- Welche würden sie gerne in der Ausbildung nutzen?  
+- Ergebnisse zu 21 + 4 Features  
+  <br />
+![](Grafik/Befragungen/BIBB-Digitale-Medien.svg)
+
+
 ## {data-background="Grafik/Hintergrund/Befragungen.jpg"}
 
 ![](Grafik/Befragungen/sw_1_multiplot.svg)

@@ -159,13 +159,28 @@ Vorstellung der Technologie, anschließend gemeinsame Diskussion mit Google Prä
 <iframe data-src="https://GOOGLE-DOCS-AR-IFRAME"></iframe>
 
 
+
+
+
+
+## Beacons {data-background="Grafik/Hintergrund/Technologien_.jpg"}
+
+##  {data-background="Grafik/Technologien/Beacon-Tablet.jpg"}
+
+
+
+
+
 ## Referenzen {data-background="Grafik/Hintergrund/Technologien_.jpg"}
 
 <div class="quellen">
 
+- Beacon-Foto:
+  [flic.kr/p/mFcRo6](https://flic.kr/p/mFcRo6) &middot;
+  Jona Nalder &middot;
+  [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) Lizenz
 - Hintergrundgrafik:
-  [gratisography.com/#objects](http://gratisography.com/#objects) &middot;
+  [gratisography.com](http://gratisography.com) &middot;
   Ryan McGuire &middot;
   [CC0 1.0](http://creativecommons.org/publicdomain/zero/1.0/) Lizenz
-
 </div>

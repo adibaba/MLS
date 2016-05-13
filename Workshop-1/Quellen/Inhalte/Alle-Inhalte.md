@@ -48,6 +48,20 @@ date: Mai 2016
 # Ergebnisse der Befragungen<br />und Aufbau der Workshops {data-background="Grafik/Hintergrund/Befragungen.jpg"}
 
 
+## Schwerpunkte der Workshops {data-background="Grafik/Hintergrund/Befragungen.jpg"}
+
+![](Grafik/Befragungen/Workshops-Aufbau.svg)
+
+
+## Software-Features {data-background="Grafik/Hintergrund/Befragungen.jpg"}
+
+- Welche Software-Features kennen Auszubildende?
+- Welche würden sie gerne in der Ausbildung nutzen?  
+- Ergebnisse zu 21 + 4 Features  
+  <br />
+![](Grafik/Befragungen/BIBB-Digitale-Medien.svg)
+
+
 ## {data-background="Grafik/Hintergrund/Befragungen.jpg"}
 
 ![](Grafik/Befragungen/sw_1_multiplot.svg)
@@ -413,15 +427,30 @@ Vorstellung der Technologie, anschließend gemeinsame Diskussion mit Google Prä
 <iframe data-src="https://GOOGLE-DOCS-AR-IFRAME"></iframe>
 
 
+
+
+
+
+## Beacons {data-background="Grafik/Hintergrund/Technologien_.jpg"}
+
+##  {data-background="Grafik/Technologien/Beacon-Tablet.jpg"}
+
+
+
+
+
 ## Referenzen {data-background="Grafik/Hintergrund/Technologien_.jpg"}
 
 <div class="quellen">
 
+- Beacon-Foto:
+  [flic.kr/p/mFcRo6](https://flic.kr/p/mFcRo6) &middot;
+  Jona Nalder &middot;
+  [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) Lizenz
 - Hintergrundgrafik:
-  [gratisography.com/#objects](http://gratisography.com/#objects) &middot;
+  [gratisography.com](http://gratisography.com) &middot;
   Ryan McGuire &middot;
   [CC0 1.0](http://creativecommons.org/publicdomain/zero/1.0/) Lizenz
-
 </div>
 
 # Abschluss {data-background="Grafik/Hintergrund/Titel.jpg"}
