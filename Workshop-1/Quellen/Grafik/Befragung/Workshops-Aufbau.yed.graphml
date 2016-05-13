@@ -144,7 +144,7 @@
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="113.0" width="454.0" x="288.80000000000086" y="73.0"/>
-          <y:Fill color="#009B77" transparent="false"/>
+          <y:Fill color="#009B77F0" transparent="false"/>
           <y:BorderStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Arial" fontSize="28" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="66.5625" modelName="custom" textColor="#FFFFFF" visible="true" width="206.26171875" x="123.869140625" y="23.21875">Grundlagen
 Mediendidaktik<y:LabelModel>
@@ -162,7 +162,7 @@ Mediendidaktik<y:LabelModel>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="113.0" width="454.0" x="288.80000000000086" y="226.0"/>
-          <y:Fill color="#009B77" transparent="false"/>
+          <y:Fill color="#009B77F0" transparent="false"/>
           <y:BorderStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Arial" fontSize="28" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="66.5625" modelName="custom" textColor="#FFFFFF" visible="true" width="344.689453125" x="54.6552734375" y="23.21875">Durchführen einer
 Lern- und Arbeitsaufgabe
@@ -181,7 +181,7 @@ Lern- und Arbeitsaufgabe
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="113.0" width="454.0" x="288.80000000000086" y="380.5"/>
-          <y:Fill color="#009B77" transparent="false"/>
+          <y:Fill color="#009B77F0" transparent="false"/>
           <y:BorderStyle color="#C0C0C0" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Arial" fontSize="28" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="66.5625" modelName="custom" textColor="#FFFFFF" visible="true" width="361.79296875" x="46.103515625" y="23.21875">Erstellen eigener
 Lern- und Arbeitsaufgaben<y:LabelModel>
@@ -237,7 +237,7 @@ Werkzeugmaschinen<y:LabelModel>
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#C7C9C7" type="dashed" width="3.0"/>
+          <y:LineStyle color="#C7C9C7" type="line" width="3.0"/>
           <y:Arrows source="none" target="delta"/>
         </y:SplineEdge>
       </data>
@@ -246,7 +246,7 @@ Werkzeugmaschinen<y:LabelModel>
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#C7C9C7" type="dashed" width="3.0"/>
+          <y:LineStyle color="#C7C9C7" type="line" width="3.0"/>
           <y:Arrows source="none" target="delta"/>
         </y:SplineEdge>
       </data>
