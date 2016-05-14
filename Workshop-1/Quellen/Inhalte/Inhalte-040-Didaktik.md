@@ -5,13 +5,43 @@
 
 ![](Grafik/Didaktik/DidaktischeSzenarien.svg)
 
+
 ## Ziele und Rahmenbedingungen {data-background="Grafik/Hintergrund/Didaktik_.jpg"}
 
-![](Grafik/Didaktik/DidaktischeSzenarien-Ziele.svg)
+![](Grafik/Didaktik/Ziele.svg)
 
-## Vollständige Handlung {data-background="Grafik/Hintergrund/Didaktik_.jpg"}
+
+## Vermittlung: Material {data-background="Grafik/Hintergrund/Didaktik_.jpg"}
+
+![](Grafik/Didaktik/DidaktischeSzenarien-Vermittlung.svg)
+
+## Vermittlung: Material {data-background="Grafik/Hintergrund/Didaktik_.jpg"}
+
+![](Grafik/Didaktik/Material.png)
+
+
+## Aktivierung: Prozess {data-background="Grafik/Hintergrund/Didaktik_.jpg"}
+
+![](Grafik/Didaktik/DidaktischeSzenarien-Aktivierung.svg)
+
+## Prozess: Vollständige Handlung {data-background="Grafik/Hintergrund/Didaktik_.jpg"}
 
 ![](Grafik/Didaktik/Vollstaendige-Handlung.svg)
+
+
+## Betreuung: Hilfestellung {data-background="Grafik/Hintergrund/Didaktik_.jpg"}
+
+![](Grafik/Didaktik/DidaktischeSzenarien-Betreuung.svg)
+
+## Betreuung: Hilfestellung {data-background="Grafik/Hintergrund/Didaktik_.jpg"}
+
+![](Grafik/Didaktik/Betreuung.svg)
+
+
+## MLS: Didaktisches Design {data-background="Grafik/Hintergrund/Didaktik_.jpg"}
+
+![](Grafik/Didaktik/DidaktischeSzenarien-MLS.svg)
+
 
 ## Referenzen {data-background="Grafik/Hintergrund/Didaktik_.jpg"}
 
@@ -40,6 +70,10 @@ Bielefeld: Bertelsmann.
   [github.com/encharm/Font-Awesome-SVG-PNG](https://github.com/encharm/Font-Awesome-SVG-PNG)
   Code Charm Ltd
   [MIT](https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/1.1.5/LICENSE) Lizenz
+- Grafik "DMU 60 Milling Machine":
+  [flic.kr/p/ggQHJa](https://flic.kr/p/ggQHJa) &middot;
+  Doggettx &middot;
+  [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) Lizenz
 - Hintergrundgrafik:
   [www.pexels.com/photo/calculations-mathematics-university-learning-7462/](https://www.pexels.com/photo/calculations-mathematics-university-learning-7462/) &middot;
   Sergey Zolkin &middot;
