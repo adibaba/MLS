@@ -187,7 +187,7 @@ Tübingen: Niemeyer.
 
 </div>
 
-# Didaktisches Desgin {data-background="Grafik/Hintergrund/Didaktik.jpg"}
+# Didaktisches Design {data-background="Grafik/Hintergrund/Didaktik.jpg"}
 
 ## Didaktische Szenarien {data-background="Grafik/Hintergrund/Didaktik_.jpg"}
 

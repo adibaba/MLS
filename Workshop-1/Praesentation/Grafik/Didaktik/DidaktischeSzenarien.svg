@@ -17,19 +17,19 @@
       </clipPath>
     </defs>
     <g fill="silver" text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" stroke-linecap="butt" stroke="silver">
-      <path fill="none" d="M139.4844 223.518 L139.4844 223.4888" clip-path="url(#clipPath1)"/>
+      <path fill="none" d="M139.4844 224.9867 L139.4844 223.4811" clip-path="url(#clipPath1)"/>
     </g>
     <g stroke-linecap="butt" font-size="18px" fill="white" text-rendering="geometricPrecision" font-family="'Arial'" shape-rendering="geometricPrecision" stroke="white" stroke-miterlimit="1.45">
       <text x="379.4443" xml:space="preserve" y="651.2402" clip-path="url(#clipPath1)" stroke="none">Quelle: Reinmann (2013)</text>
     </g>
     <g fill="rgb(255,255,255)" text-rendering="geometricPrecision" fill-opacity="0.8627" shape-rendering="geometricPrecision" stroke-opacity="0.8627" stroke="rgb(255,255,255)">
-      <rect x="2.9788" width="286.6788" height="37.4899" y="223.5" clip-path="url(#clipPath1)" stroke="none"/>
+      <rect x="2.9788" width="286.6788" height="30" y="225" clip-path="url(#clipPath1)" stroke="none"/>
     </g>
     <g stroke-linecap="butt" font-size="20px" fill="rgb(34,34,34)" text-rendering="geometricPrecision" font-family="'Arial'" shape-rendering="geometricPrecision" stroke="rgb(34,34,34)" stroke-miterlimit="1.45">
-      <text x="73.4959" xml:space="preserve" y="249.1786" clip-path="url(#clipPath1)" stroke="none">materiale Ebene</text>
+      <text x="79.6189" xml:space="preserve" y="246.9336" clip-path="url(#clipPath1)" stroke="none">materiale Seite</text>
     </g>
     <g stroke-linecap="butt" fill="white" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="white" stroke-width="2" stroke-miterlimit="1.45">
-      <rect fill="none" x="2.9788" width="286.6788" height="37.4899" y="223.5" clip-path="url(#clipPath1)"/>
+      <rect fill="none" x="2.9788" width="286.6788" height="30" y="225" clip-path="url(#clipPath1)"/>
     </g>
     <g transform="translate(5,5)" fill-opacity="0.6" fill="rgb(0,0,0)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(0,0,0)" stroke-opacity="0.6">
       <path d="M478.9 12.1768 L697.1 389 L260.7 389 Z" fill-rule="evenodd" clip-path="url(#clipPath2)" stroke="none"/>
@@ -66,13 +66,13 @@
       <text x="416.959" xml:space="preserve" y="304.5244" clip-path="url(#clipPath1)" stroke="none">Szenarien</text>
     </g>
     <g fill="rgb(255,255,255)" text-rendering="geometricPrecision" fill-opacity="0.8627" shape-rendering="geometricPrecision" stroke-opacity="0.8627" stroke="rgb(255,255,255)">
-      <rect x="669.4" width="290" height="37.4899" y="223.505" clip-path="url(#clipPath1)" stroke="none"/>
+      <rect x="669.4" width="290" height="30" y="223.505" clip-path="url(#clipPath1)" stroke="none"/>
     </g>
     <g stroke-linecap="butt" font-size="20px" fill="rgb(34,34,34)" text-rendering="geometricPrecision" font-family="'Arial'" shape-rendering="geometricPrecision" stroke="rgb(34,34,34)" stroke-miterlimit="1.45">
-      <text x="728.7848" xml:space="preserve" y="249.1836" clip-path="url(#clipPath1)" stroke="none">prozessuale Ebene</text>
+      <text x="734.9078" xml:space="preserve" y="245.4386" clip-path="url(#clipPath1)" stroke="none">prozessuale Seite</text>
     </g>
     <g stroke-linecap="butt" fill="white" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="white" stroke-width="2" stroke-miterlimit="1.45">
-      <rect fill="none" x="669.4" width="290" height="37.4899" y="223.505" clip-path="url(#clipPath1)"/>
+      <rect fill="none" x="669.4" width="290" height="30" y="223.505" clip-path="url(#clipPath1)"/>
     </g>
     <g fill="rgb(132,189,0)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(132,189,0)">
       <rect x="669.4" width="290" height="138.0101" y="85.495" clip-path="url(#clipPath1)" stroke="none"/>
@@ -91,13 +91,13 @@
       <text x="703.1711" xml:space="preserve" y="123.3153" clip-path="url(#clipPath1)" stroke="none">Lernende aktivieren</text>
     </g>
     <g fill="rgb(255,255,255)" text-rendering="geometricPrecision" fill-opacity="0.8627" shape-rendering="geometricPrecision" stroke-opacity="0.8627" stroke="rgb(255,255,255)">
-      <rect x="312.7" width="334.6" height="37.4899" y="542.5101" clip-path="url(#clipPath1)" stroke="none"/>
+      <rect x="312.7" width="334.6" height="30" y="542.5101" clip-path="url(#clipPath1)" stroke="none"/>
     </g>
     <g stroke-linecap="butt" font-size="20px" fill="rgb(34,34,34)" text-rendering="geometricPrecision" font-family="'Arial'" shape-rendering="geometricPrecision" stroke="rgb(34,34,34)" stroke-miterlimit="1.45">
-      <text x="417.1777" xml:space="preserve" y="568.1887" clip-path="url(#clipPath1)" stroke="none">soziale Ebene</text>
+      <text x="423.3008" xml:space="preserve" y="564.4437" clip-path="url(#clipPath1)" stroke="none">soziale Seite</text>
     </g>
     <g stroke-linecap="butt" fill="white" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="white" stroke-width="2" stroke-miterlimit="1.45">
-      <rect fill="none" x="312.7" width="334.6" height="37.4899" y="542.5101" clip-path="url(#clipPath1)"/>
+      <rect fill="none" x="312.7" width="334.6" height="30" y="542.5101" clip-path="url(#clipPath1)"/>
     </g>
     <g fill="rgb(255,130,0)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(255,130,0)">
       <rect x="312.7" width="334.6" height="138" y="404.5101" clip-path="url(#clipPath1)" stroke="none"/>
@@ -116,16 +116,6 @@
       <text fill="black" x="21.112" xml:space="preserve" y="128.3102" clip-path="url(#clipPath1)" stroke="none">Eine Sache vermitteln</text>
     </g>
     <g transform="translate(5,5)" fill-opacity="0.6" fill="rgb(0,0,0)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(0,0,0)" stroke-opacity="0.6">
-      <path d="M307.1106 121 L341.2962 101 L614.7827 101 L648.9682 121 L614.7827 141 L341.2962 141 Z" fill-rule="evenodd" clip-path="url(#clipPath2)" stroke="none"/>
-    </g>
-    <g fill="rgb(138,27,97)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(138,27,97)">
-      <path d="M307.1106 121 L341.2962 101 L614.7827 101 L648.9682 121 L614.7827 141 L341.2962 141 Z" fill-rule="evenodd" clip-path="url(#clipPath1)" stroke="none"/>
-    </g>
-    <g stroke-linecap="butt" font-size="28px" fill="white" text-rendering="geometricPrecision" font-family="'Arial'" shape-rendering="geometricPrecision" stroke="white" stroke-miterlimit="1.45">
-      <text x="344.1507" xml:space="preserve" y="130.707" clip-path="url(#clipPath1)" stroke="none">Rahmenbedingungen</text>
-      <path fill="none" d="M307.1106 121 L341.2962 101 L614.7827 101 L648.9682 121 L614.7827 141 L341.2962 141 Z" stroke-width="2" clip-path="url(#clipPath1)" fill-rule="evenodd"/>
-    </g>
-    <g transform="translate(5,5)" fill-opacity="0.6" fill="rgb(0,0,0)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(0,0,0)" stroke-opacity="0.6">
       <path d="M335.0788 76 L363.2188 56 L588.3387 56 L616.4788 76 L588.3387 96 L363.2188 96 Z" fill-rule="evenodd" clip-path="url(#clipPath2)" stroke="none"/>
     </g>
     <g fill="rgb(138,27,97)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(138,27,97)">
@@ -134,6 +124,16 @@
     <g stroke-linecap="butt" font-size="28px" fill="white" text-rendering="geometricPrecision" font-family="'Arial'" shape-rendering="geometricPrecision" stroke="white" stroke-miterlimit="1.45">
       <text x="380.0688" xml:space="preserve" y="85.707" clip-path="url(#clipPath1)" stroke="none">Lehr-Lern-Ziele</text>
       <path fill="none" d="M335.0788 76 L363.2188 56 L588.3387 56 L616.4788 76 L588.3387 96 L363.2188 96 Z" stroke-width="2" clip-path="url(#clipPath1)" fill-rule="evenodd"/>
+    </g>
+    <g transform="translate(5,5)" fill-opacity="0.6" fill="rgb(0,0,0)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(0,0,0)" stroke-opacity="0.6">
+      <path d="M307.1106 121 L341.2964 101 L614.7824 101 L648.9681 121 L614.7824 141 L341.2964 141 Z" fill-rule="evenodd" clip-path="url(#clipPath2)" stroke="none"/>
+    </g>
+    <g fill="rgb(138,27,97)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(138,27,97)">
+      <path d="M307.1106 121 L341.2964 101 L614.7824 101 L648.9681 121 L614.7824 141 L341.2964 141 Z" fill-rule="evenodd" clip-path="url(#clipPath1)" stroke="none"/>
+    </g>
+    <g stroke-linecap="butt" font-size="28px" fill="white" text-rendering="geometricPrecision" font-family="'Arial'" shape-rendering="geometricPrecision" stroke="white" stroke-miterlimit="1.45">
+      <text x="344.1507" xml:space="preserve" y="130.707" clip-path="url(#clipPath1)" stroke="none">Rahmenbedingungen</text>
+      <path fill="none" d="M307.1106 121 L341.2964 101 L614.7824 101 L648.9681 121 L614.7824 141 L341.2964 141 Z" stroke-width="2" clip-path="url(#clipPath1)" fill-rule="evenodd"/>
     </g>
   </g>
 </svg>

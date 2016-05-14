@@ -110,7 +110,7 @@
           <y:Geometry height="30.0" width="286.67877192982405" x="2.978771929824063" y="300.0"/>
           <y:Fill color="#FFFFFFDC" transparent="false"/>
           <y:BorderStyle color="#FFFFFF" type="line" width="2.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Arial" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="26.34375" modelName="custom" textColor="#222222" visible="true" width="149.64453125" x="68.51712033991203" y="1.828125">materiale Ebene<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Arial" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="26.34375" modelName="custom" textColor="#222222" visible="true" width="137.3984375" x="74.64016721491203" y="1.828125">materiale Seite<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -230,7 +230,7 @@ Design<y:LabelModel>
           <y:Geometry height="30.0" width="290.0" x="669.4000000000004" y="298.50503622668776"/>
           <y:Fill color="#FFFFFFDC" transparent="false"/>
           <y:BorderStyle color="#FFFFFF" type="line" width="2.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Arial" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="26.34375" modelName="custom" textColor="#222222" visible="true" width="175.23046875" x="57.384765625" y="1.828125">prozessuale Ebene<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Arial" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="26.34375" modelName="custom" textColor="#222222" visible="true" width="162.984375" x="63.5078125" y="1.828125">prozessuale Seite<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -390,7 +390,7 @@ Hilfestellung, Rückmeldung</y:NodeLabel>
           <y:Geometry height="64.84615384615392" width="353.28852459016406" x="299.13450963474196" y="9.051456928717812"/>
           <y:Fill color="#8A1B61" transparent="false"/>
           <y:BorderStyle color="#FFFFFF" type="line" width="2.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Arial" fontSize="24" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="30.8125" modelName="internal" modelPosition="c" textColor="#FFFFFF" visible="true" width="298.85546875" x="27.21652792008203" y="17.016826923076962">Ausbildungs(ver)ordnungen</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Arial" fontSize="24" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="30.8125" modelName="internal" modelPosition="c" textColor="#FFFFFF" visible="true" width="298.85546875" x="27.216527920082" y="17.016826923076962">Ausbildungs(ver)ordnungen</y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>

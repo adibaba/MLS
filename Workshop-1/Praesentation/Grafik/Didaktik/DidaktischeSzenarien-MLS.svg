@@ -27,7 +27,7 @@
       <rect x="2.9788" width="286.6788" height="30" y="300" clip-path="url(#clipPath1)" stroke="none"/>
     </g>
     <g stroke-linecap="butt" font-size="20px" fill="rgb(34,34,34)" text-rendering="geometricPrecision" font-family="'Arial'" shape-rendering="geometricPrecision" stroke="rgb(34,34,34)" stroke-miterlimit="1.45">
-      <text x="73.4959" xml:space="preserve" y="321.9336" clip-path="url(#clipPath1)" stroke="none">materiale Ebene</text>
+      <text x="79.6189" xml:space="preserve" y="321.9336" clip-path="url(#clipPath1)" stroke="none">materiale Seite</text>
     </g>
     <g stroke-linecap="butt" fill="white" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="white" stroke-width="2" stroke-miterlimit="1.45">
       <rect fill="none" x="2.9788" width="286.6788" height="30" y="300" clip-path="url(#clipPath1)"/>
@@ -71,7 +71,7 @@
       <rect x="669.4" width="290" height="30" y="298.505" clip-path="url(#clipPath1)" stroke="none"/>
     </g>
     <g stroke-linecap="butt" font-size="20px" fill="rgb(34,34,34)" text-rendering="geometricPrecision" font-family="'Arial'" shape-rendering="geometricPrecision" stroke="rgb(34,34,34)" stroke-miterlimit="1.45">
-      <text x="728.7848" xml:space="preserve" y="320.4386" clip-path="url(#clipPath1)" stroke="none">prozessuale Ebene</text>
+      <text x="734.9078" xml:space="preserve" y="320.4386" clip-path="url(#clipPath1)" stroke="none">prozessuale Seite</text>
     </g>
     <g stroke-linecap="butt" fill="white" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="white" stroke-width="2" stroke-miterlimit="1.45">
       <rect fill="none" x="669.4" width="290" height="30" y="298.505" clip-path="url(#clipPath1)"/>
@@ -95,7 +95,7 @@
       <rect x="312.7" width="334.6" height="30" y="617.5101" clip-path="url(#clipPath1)" stroke="none"/>
     </g>
     <g stroke-linecap="butt" font-size="20px" fill="rgb(34,34,34)" text-rendering="geometricPrecision" font-family="'Arial'" shape-rendering="geometricPrecision" stroke="rgb(34,34,34)" stroke-miterlimit="1.45">
-      <text x="417.1777" xml:space="preserve" y="639.4437" clip-path="url(#clipPath1)" stroke="none">soziale Ebene</text>
+      <text x="423.3008" xml:space="preserve" y="639.4437" clip-path="url(#clipPath1)" stroke="none">soziale Seite</text>
     </g>
     <g stroke-linecap="butt" fill="white" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="white" stroke-width="2" stroke-miterlimit="1.45">
       <rect fill="none" x="312.7" width="334.6" height="30" y="617.5101" clip-path="url(#clipPath1)"/>
