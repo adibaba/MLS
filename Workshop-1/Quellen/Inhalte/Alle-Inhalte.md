@@ -214,6 +214,10 @@ Tübingen: Niemeyer.
 
 ## Prozess: Vollständige Handlung {data-background="Grafik/Hintergrund/Didaktik_.jpg"}
 
+![](Grafik/Didaktik/Vollstaendige-Handlung-Kreis.svg)
+
+## Prozess: Vollständige Handlung {data-background="Grafik/Hintergrund/Didaktik_.jpg"}
+
 ![](Grafik/Didaktik/Vollstaendige-Handlung.svg)
 
 
