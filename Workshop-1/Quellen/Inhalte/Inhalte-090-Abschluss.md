@@ -12,7 +12,7 @@
 ## Referenzen {data-background="Grafik/Hintergrund/Titel_.jpg"}
 
 <div class="quellen">
-- Diese Präsentation online  
+- <span class="highlight">Diese Präsentation online</span>  
 [adibaba.github.io/MLS](http://adibaba.github.io/MLS/)
 - Die MLS Projektseite  
 [www.mobil-lernen.com](https://www.mobil-lernen.com/)

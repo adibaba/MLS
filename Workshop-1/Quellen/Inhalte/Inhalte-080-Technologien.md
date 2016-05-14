@@ -6,8 +6,7 @@
 ## Technologien {data-background="Grafik/Hintergrund/Technologien_.jpg"}
 
 - Augmented Reality
-- Bluetooth Low Energy
-- QR-Codes
+- Beacons & QR-Codes
 - E-Assessment
 
 Vorstellung der Technologie, anschließend gemeinsame Diskussion mit Google Präsentationen
@@ -18,6 +17,8 @@ Vorstellung der Technologie, anschließend gemeinsame Diskussion mit Google Prä
 <iframe data-src="https://GOOGLE-DOCS-AR-IFRAME"></iframe>
 
 
+
+## Augmented Reality {data-background="Grafik/Hintergrund/Technologien.jpg"}
 
 ## Augmented Reality {data-background="Grafik/Hintergrund/Technologien_.jpg"}
 
@@ -163,9 +164,16 @@ Vorstellung der Technologie, anschließend gemeinsame Diskussion mit Google Prä
 
 
 
-## Beacons {data-background="Grafik/Hintergrund/Technologien_.jpg"}
+## Beacons & QR-Codes {data-background="Grafik/Hintergrund/Technologien.jpg"}
 
-##  {data-background="Grafik/Technologien/Beacon-Tablet.jpg"}
+## {data-background="Grafik/Technologien/Beacon-Tablet.jpg"}
+
+
+
+
+
+
+## E-Assessment {data-background="Grafik/Hintergrund/Technologien.jpg"}
 
 
 

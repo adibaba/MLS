@@ -272,7 +272,7 @@ beherrschen<y:LabelModel>
             <y:Point x="504.83363148479424" y="182.78454830053678"/>
             <y:Point x="516.1037567084079" y="282.5283765652953"/>
           </y:Path>
-          <y:LineStyle color="#8A1B61" type="dashed" width="3.0"/>
+          <y:LineStyle color="#AAAAAA" type="dashed" width="3.0"/>
           <y:Arrows source="none" target="delta"/>
         </y:SplineEdge>
       </data>
@@ -284,7 +284,7 @@ beherrschen<y:LabelModel>
             <y:Point x="502.2382826475849" y="147.36415474060834"/>
             <y:Point x="518.7248658318426" y="199.59313506261194"/>
           </y:Path>
-          <y:LineStyle color="#8A1B61" type="dashed" width="3.0"/>
+          <y:LineStyle color="#AAAAAA" type="dashed" width="3.0"/>
           <y:Arrows source="none" target="delta"/>
         </y:SplineEdge>
       </data>
@@ -293,7 +293,7 @@ beherrschen<y:LabelModel>
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="235.41158567366858" sy="0.0" tx="-211.02217310392032" ty="0.0"/>
-          <y:LineStyle color="#8A1B61" type="dashed" width="3.0"/>
+          <y:LineStyle color="#AAAAAA" type="dashed" width="3.0"/>
           <y:Arrows source="none" target="delta"/>
         </y:SplineEdge>
       </data>
@@ -305,7 +305,7 @@ beherrschen<y:LabelModel>
             <y:Point x="493.56350626118063" y="218.2049418604652"/>
             <y:Point x="509.66368515205727" y="361.4965339892666"/>
           </y:Path>
-          <y:LineStyle color="#8A1B61" type="dashed" width="3.0"/>
+          <y:LineStyle color="#AAAAAA" type="dashed" width="3.0"/>
           <y:Arrows source="none" target="delta"/>
         </y:SplineEdge>
       </data>
@@ -318,7 +318,7 @@ beherrschen<y:LabelModel>
             <y:Point x="619.1449016100178" y="586.8990384615386"/>
             <y:Point x="696.8264758497317" y="620.7094141323794"/>
           </y:Path>
-          <y:LineStyle color="#8A1B61" type="dashed" width="3.0"/>
+          <y:LineStyle color="#AAAAAA" type="dashed" width="3.0"/>
           <y:Arrows source="none" target="delta"/>
         </y:SplineEdge>
       </data>

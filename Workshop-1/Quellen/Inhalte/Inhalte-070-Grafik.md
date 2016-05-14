@@ -20,10 +20,10 @@ Grafik: DrawExpress Diagram Lite Bildschirmfoto
 
 <div class="quellen">
 
-- App "DrawExpress Diagram Lite" &middot;
+- App "<span class="highlight">DrawExpress Diagram Lite</span>" &middot;
   [www.drawexpress.com](http://www.drawexpress.com/) &middot;
   [play.google.com/store/apps/details?id=com.drawexpress.lite](https://play.google.com/store/apps/details?id=com.drawexpress.lite)
-- App "Nimbus Clipper - Clip Anything" &middot;
+- App "<span class="highlight">Nimbus Clipper - Clip Anything</span>" &middot;
   [nimbus.everhelper.me](https://nimbus.everhelper.me/) &middot;
   [play.google.com/store/apps/details?id=com.fvd.nimbus](https://play.google.com/store/apps/details?id=com.fvd.nimbus)
 - Grafik "DMU 60 Milling Machine":

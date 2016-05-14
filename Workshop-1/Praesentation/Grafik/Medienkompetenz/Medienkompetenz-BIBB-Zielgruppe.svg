@@ -7,97 +7,114 @@
         <path d="M0 0 L963 0 L963 660 L0 660 L0 0 Z"/>
       </clipPath>
     </defs>
-    <g stroke-linecap="butt" fill="rgb(0,163,224)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke-dasharray="18,6" stroke="rgb(0,163,224)" stroke-width="3" stroke-miterlimit="1.45">
-      <path fill="none" d="M465.2102 252.9647 L472.8789 251.3984 L484.8461 248.2986 L496.5615 244.5217 L508 240 L519.1448 234.6884 L530.0128 228.6319 L540.6289 221.8984 L551.0185 214.5556 L561.2067 206.671 L571.2188 198.3125 L573.1562 196.5904 L573.2293 196.5221" clip-path="url(#clipPath1)"/>
+    <g fill="rgb(255,198,0)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(255,198,0)">
+      <rect x="486.28" y="43.8" clip-path="url(#clipPath1)" width="354.28" rx="4" ry="4" height="47.4" stroke="none"/>
     </g>
-    <g stroke-linecap="butt" fill="rgb(0,163,224)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke-dasharray="18,6" stroke="rgb(0,163,224)" stroke-width="3" stroke-miterlimit="1.45">
-      <path d="M583.4547 187.3295 L567.2856 191.7803 L577.3138 202.9353 Z" stroke="none" clip-path="url(#clipPath1)"/>
-      <path fill="none" d="M263.4461 244.2372 L255.8935 241.5741 L246.3513 237.5926 L237 233 L227.8513 227.7593 L218.8935 221.9074 L210.1094 215.5 L201.4815 208.5926 L192.9925 201.2407 L188.3256 196.9234 L188.2541 196.8536" clip-path="url(#clipPath1)"/>
-      <path d="M178.323 187.3438 L183.9698 203.135 L194.3441 192.3011 Z" clip-path="url(#clipPath1)" stroke="none"/>
-      <path fill="none" d="M358.36 228.4 L358.36 201.1831" clip-path="url(#clipPath1)"/>
-      <path d="M358.36 187.4331 L350.86 202.4331 L365.86 202.4331 Z" clip-path="url(#clipPath1)" stroke="none"/>
-      <path fill="none" d="M128 391 L123.9193 390.7599 L119.8873 390.446 L115.9531 389.9844 L112.1654 389.3012 L108.5731 388.3227 L105.225 386.975 L102.17 385.1842 L99.4568 382.8766 L97.1344 379.9781 L95.2515 376.4151 L93.8571 372.1137 L93 367 L92.7328 361.0376 L93.1235 354.3395 L94.2438 347.0562 L96.1654 339.3383 L98.9603 331.336 L102.7 323.2 L107.4564 315.0806 L113.3012 307.1284 L120.3063 299.4937 L128.5432 292.3271 L138.0839 285.7791 L149 280 L161.3313 275.1025 L174.9892 271.0479 L189.8531 267.7594 L205.8025 265.1605 L222.7166 263.1746 L235.0921 262.1644 L235.192 262.1591" clip-path="url(#clipPath1)" stroke="rgb(198,53,39)"/>
-      <path fill="rgb(198,53,39)" d="M248.9133 261.272 L233.4607 254.7553 L234.4285 269.7241 Z" clip-path="url(#clipPath1)" stroke="none"/>
-      <path fill="none" d="M591.1498 340.3205 L592.1497 339.4599 L594.1719 337.6562 L596.1309 335.8123 L598.0056 333.9147 L599.775 331.95 L601.418 329.9047 L602.9136 327.7654 L604.2406 325.5187 L605.3781 323.1512 L606.3049 320.6494 L607 318 L607.4269 315.1965 L607.4877 312.2608 L607.0687 309.2219 L606.0568 306.1086 L604.3384 302.95 L601.8 299.775 L598.3283 296.6125 L593.8099 293.4914 L588.1312 290.4406 L581.179 287.4892 L572.8397 284.666 L563 282 L551.5877 279.5127 L538.696 277.196 L524.4594 275.0344 L509.0123 273.0124 L492.4894 271.1144 L477.9006 269.6196 L477.801 269.6104" clip-path="url(#clipPath1)" stroke="rgb(198,53,39)"/>
-      <path fill="rgb(198,53,39)" d="M464.1125 268.3116 L478.337 277.1949 L479.7538 262.262 Z" clip-path="url(#clipPath1)" stroke="none"/>
+    <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" font-size="28px" shape-rendering="geometricPrecision" font-family="'Arial'" stroke-linecap="butt">
+      <text x="529.586" xml:space="preserve" y="77.207" clip-path="url(#clipPath1)" stroke="none">Gewerblich-technisch</text>
+    </g>
+    <g fill="silver" text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" stroke-linecap="butt" stroke="silver">
+      <rect x="486.28" y="43.8" clip-path="url(#clipPath1)" fill="none" width="354.28" rx="4" ry="4" height="47.4"/>
+    </g>
+    <g fill="rgb(132,189,0)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(132,189,0)">
+      <rect x="241.86" y="472" clip-path="url(#clipPath1)" width="476.28" rx="4" ry="4" height="113" stroke="none"/>
+    </g>
+    <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" font-size="28px" shape-rendering="geometricPrecision" font-family="'Arial'" stroke-linecap="butt">
+      <text x="266.0146" xml:space="preserve" y="506.9258" clip-path="url(#clipPath1)" stroke="none">Bildschirmunterstützte Einstellung,</text>
+      <text x="346.9043" xml:space="preserve" y="538.207" clip-path="url(#clipPath1)" stroke="none">in neueren Versionen</text>
+      <text x="308.0283" xml:space="preserve" y="569.4883" clip-path="url(#clipPath1)" stroke="none">über Touchscreen-Monitore</text>
+    </g>
+    <g fill="silver" text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" stroke-linecap="butt" stroke="silver">
+      <rect x="241.86" y="472" clip-path="url(#clipPath1)" fill="none" width="476.28" rx="4" ry="4" height="113"/>
+    </g>
+    <g fill="rgb(132,189,0)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(132,189,0)">
+      <rect x="655.72" y="326.4" clip-path="url(#clipPath1)" width="304.28" rx="4" ry="4" height="113" stroke="none"/>
+    </g>
+    <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" font-size="28px" shape-rendering="geometricPrecision" font-family="'Arial'" stroke-linecap="butt">
+      <text x="687.233" xml:space="preserve" y="361.3258" clip-path="url(#clipPath1)" stroke="none">Dokumentation von</text>
+      <text x="680.233" xml:space="preserve" y="392.607" clip-path="url(#clipPath1)" stroke="none">Arbeitsprozessdaten</text>
+      <text x="700.4742" xml:space="preserve" y="423.8883" clip-path="url(#clipPath1)" stroke="none">in Excel-Tabellen</text>
+    </g>
+    <g fill="silver" text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" stroke-linecap="butt" stroke="silver">
+      <rect x="655.72" y="326.4" clip-path="url(#clipPath1)" fill="none" width="304.28" rx="4" ry="4" height="113"/>
+    </g>
+    <g fill="rgb(132,189,0)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(132,189,0)">
+      <rect x="72.08" y="326.4" clip-path="url(#clipPath1)" width="245.28" rx="4" ry="4" height="113" stroke="none"/>
+    </g>
+    <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" font-size="28px" shape-rendering="geometricPrecision" font-family="'Arial'" stroke-linecap="butt">
+      <text x="120.7893" xml:space="preserve" y="361.3258" clip-path="url(#clipPath1)" stroke="none">Auswertung</text>
+      <text x="130.8997" xml:space="preserve" y="392.607" clip-path="url(#clipPath1)" stroke="none">von Daten</text>
+      <text x="97.472" xml:space="preserve" y="423.8883" clip-path="url(#clipPath1)" stroke="none">mittels Grafiken</text>
+    </g>
+    <g fill="silver" text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" stroke-linecap="butt" stroke="silver">
+      <rect x="72.08" y="326.4" clip-path="url(#clipPath1)" fill="none" width="245.28" rx="4" ry="4" height="113"/>
+    </g>
+    <g fill="rgb(255,249,230)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(255,249,230)">
+      <rect x="123" y="43.8" clip-path="url(#clipPath1)" width="354.28" rx="4" ry="4" height="47.4" stroke="none"/>
+    </g>
+    <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" font-size="28px" shape-rendering="geometricPrecision" font-family="'Arial'" stroke-linecap="butt">
+      <text x="172.4994" xml:space="preserve" y="77.207" clip-path="url(#clipPath1)" stroke="none">Medienproduzierend</text>
+    </g>
+    <g fill="rgb(255,198,0)" text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" stroke-linecap="butt" stroke="rgb(255,198,0)">
+      <rect x="123" y="43.8" clip-path="url(#clipPath1)" fill="none" width="354.28" rx="4" ry="4" height="47.4"/>
+    </g>
+    <g fill="rgb(255,130,0)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(255,130,0)">
+      <rect x="347.36" y="249" clip-path="url(#clipPath1)" width="265.28" rx="4" ry="4" height="47.4" stroke="none"/>
+    </g>
+    <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" font-size="28px" shape-rendering="geometricPrecision" font-family="'Arial'" stroke-linecap="butt">
+      <text x="371.0283" xml:space="preserve" y="282.407" clip-path="url(#clipPath1)" stroke="none">Papiertechnologe</text>
+    </g>
+    <g fill="silver" text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" stroke-linecap="butt" stroke="silver">
+      <rect x="347.36" y="249" clip-path="url(#clipPath1)" fill="none" width="265.28" rx="4" ry="4" height="47.4"/>
+    </g>
+    <g fill="rgb(255,249,230)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(255,249,230)">
+      <rect x="486.28" y="99" clip-path="url(#clipPath1)" width="354.28" rx="4" ry="4" height="47.4" stroke="none"/>
+    </g>
+    <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" font-size="28px" shape-rendering="geometricPrecision" font-family="'Arial'" stroke-linecap="butt">
+      <text x="574.7032" xml:space="preserve" y="132.407" clip-path="url(#clipPath1)" stroke="none">Kaufmännisch</text>
+    </g>
+    <g fill="rgb(255,198,0)" text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" stroke-linecap="butt" stroke="rgb(255,198,0)">
+      <rect x="486.28" y="99" clip-path="url(#clipPath1)" fill="none" width="354.28" rx="4" ry="4" height="47.4"/>
+    </g>
+    <g fill="rgb(255,249,230)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(255,249,230)">
+      <rect x="123" y="99" clip-path="url(#clipPath1)" width="354.28" rx="4" ry="4" height="47.4" stroke="none"/>
+    </g>
+    <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" font-size="28px" shape-rendering="geometricPrecision" font-family="'Arial'" stroke-linecap="butt">
+      <text x="180.2855" xml:space="preserve" y="132.407" clip-path="url(#clipPath1)" stroke="none">Medienintegrierend</text>
+    </g>
+    <g fill="rgb(255,198,0)" text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" stroke-linecap="butt" stroke="rgb(255,198,0)">
+      <rect x="123" y="99" clip-path="url(#clipPath1)" fill="none" width="354.28" rx="4" ry="4" height="47.4"/>
+    </g>
+    <g fill="rgb(255,249,230)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(255,249,230)">
+      <rect x="486.28" y="154.2" clip-path="url(#clipPath1)" width="354.28" rx="4" ry="4" height="47.4" stroke="none"/>
+    </g>
+    <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" font-size="28px" shape-rendering="geometricPrecision" font-family="'Arial'" stroke-linecap="butt">
+      <text x="508.5655" xml:space="preserve" y="187.607" clip-path="url(#clipPath1)" stroke="none">Handwerk/Dienstleistung</text>
+    </g>
+    <g fill="rgb(255,198,0)" text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" stroke-linecap="butt" stroke="rgb(255,198,0)">
+      <rect x="486.28" y="154.2" clip-path="url(#clipPath1)" fill="none" width="354.28" rx="4" ry="4" height="47.4"/>
+      <rect stroke-linecap="square" x="123" y="154.2" clip-path="url(#clipPath1)" width="354.28" rx="4" ry="4" height="47.4" stroke="none" stroke-miterlimit="10"/>
+    </g>
+    <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" font-size="28px" shape-rendering="geometricPrecision" font-family="'Arial'" stroke-linecap="butt">
+      <text x="196.6166" xml:space="preserve" y="187.607" clip-path="url(#clipPath1)" stroke="none">Mendiennutzend</text>
+    </g>
+    <g fill="silver" text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" stroke-linecap="butt" stroke="silver">
+      <rect x="123" y="154.2" clip-path="url(#clipPath1)" fill="none" width="354.28" rx="4" ry="4" height="47.4"/>
     </g>
     <g stroke-linecap="butt" font-size="18px" fill="white" text-rendering="geometricPrecision" font-family="'Arial'" shape-rendering="geometricPrecision" stroke="white" stroke-miterlimit="1.45">
-      <text x="119.9165" xml:space="preserve" y="651.2402" clip-path="url(#clipPath1)" stroke="none">Quelle: Krämer et al. (2015) - BIBB Abschlussbericht "Medien anwenden und produzieren"</text>
+      <text x="122.1165" xml:space="preserve" y="651.2402" clip-path="url(#clipPath1)" stroke="none">Quelle: Krämer et al. (2015) - BIBB Abschlussbericht "Medien anwenden und produzieren"</text>
     </g>
-    <g fill="rgb(51,51,51)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(51,51,51)">
-      <rect x="614.01" y="320" clip-path="url(#clipPath1)" width="219.28" rx="4" ry="4" height="93.4" stroke="none"/>
-    </g>
-    <g stroke-linecap="butt" font-size="20px" fill="white" text-rendering="geometricPrecision" font-family="'Arial'" shape-rendering="geometricPrecision" stroke="white" stroke-miterlimit="1.45">
-      <text x="650.8326" xml:space="preserve" y="351.2899" clip-path="url(#clipPath1)" stroke="none">Einstieg, Verlauf</text>
-      <text x="663.6012" xml:space="preserve" y="373.6336" clip-path="url(#clipPath1)" stroke="none">und Ende der</text>
-      <text x="646.3746" xml:space="preserve" y="395.9774" clip-path="url(#clipPath1)" stroke="none">Berufsausbildung</text>
-    </g>
-    <g fill="silver" text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" stroke-linecap="butt" stroke="silver">
-      <rect x="614.01" y="320" clip-path="url(#clipPath1)" fill="none" width="219.28" rx="4" ry="4" height="93.4"/>
-    </g>
-    <g fill="rgb(51,51,51)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(51,51,51)">
-      <rect x="371.86" y="320" clip-path="url(#clipPath1)" width="219.28" rx="4" ry="4" height="93.4" stroke="none"/>
-    </g>
-    <g stroke-linecap="butt" font-size="20px" fill="white" text-rendering="geometricPrecision" font-family="'Arial'" shape-rendering="geometricPrecision" stroke="white" stroke-miterlimit="1.45">
-      <text x="385.9043" xml:space="preserve" y="351.2899" clip-path="url(#clipPath1)" stroke="none">Gewerblich-technisch</text>
-      <text x="418.1309" xml:space="preserve" y="373.6336" clip-path="url(#clipPath1)" stroke="none">Kaufmännisch</text>
-      <text x="400.3574" xml:space="preserve" y="395.9774" clip-path="url(#clipPath1)" stroke="none">Handwerk/Dienstl.</text>
-    </g>
-    <g fill="silver" text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" stroke-linecap="butt" stroke="silver">
-      <rect x="371.86" y="320" clip-path="url(#clipPath1)" fill="none" width="219.28" rx="4" ry="4" height="93.4"/>
-    </g>
-    <g fill="rgb(0,163,224)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(0,163,224)">
-      <rect x="465.28" y="98" clip-path="url(#clipPath1)" width="329.28" rx="4" ry="4" height="89.4" stroke="none"/>
-    </g>
-    <g stroke-linecap="butt" font-size="20px" fill="white" text-rendering="geometricPrecision" font-family="'Arial'" shape-rendering="geometricPrecision" stroke="white" stroke-miterlimit="1.45">
-      <text x="477.0733" xml:space="preserve" y="127.2898" clip-path="url(#clipPath1)" stroke="none">Bildschirmunterstützte Einstellung,</text>
-      <text x="534.8516" xml:space="preserve" y="149.6336" clip-path="url(#clipPath1)" stroke="none">in neueren Versionen</text>
-      <text x="507.0831" xml:space="preserve" y="171.9773" clip-path="url(#clipPath1)" stroke="none">über Touchscreen-Monitore</text>
-    </g>
-    <g fill="silver" text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" stroke-linecap="butt" stroke="silver">
-      <rect x="465.28" y="98" clip-path="url(#clipPath1)" fill="none" width="329.28" rx="4" ry="4" height="89.4"/>
-    </g>
-    <g fill="rgb(0,163,224)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(0,163,224)">
-      <rect x="30.72" y="98" clip-path="url(#clipPath1)" width="212.28" rx="4" ry="4" height="89.4" stroke="none"/>
-    </g>
-    <g stroke-linecap="butt" font-size="20px" fill="white" text-rendering="geometricPrecision" font-family="'Arial'" shape-rendering="geometricPrecision" stroke="white" stroke-miterlimit="1.45">
-      <text x="50.6979" xml:space="preserve" y="127.2898" clip-path="url(#clipPath1)" stroke="none">Dokumentation von</text>
-      <text x="45.6979" xml:space="preserve" y="149.6336" clip-path="url(#clipPath1)" stroke="none">Arbeitsprozessdaten</text>
-      <text x="60.1559" xml:space="preserve" y="171.9773" clip-path="url(#clipPath1)" stroke="none">in Excel-Tabellen</text>
-    </g>
-    <g fill="silver" text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" stroke-linecap="butt" stroke="silver">
-      <rect x="30.72" y="98" clip-path="url(#clipPath1)" fill="none" width="212.28" rx="4" ry="4" height="89.4"/>
-    </g>
-    <g fill="rgb(0,163,224)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(0,163,224)">
-      <rect x="264" y="98" clip-path="url(#clipPath1)" width="180.28" rx="4" ry="4" height="89.4" stroke="none"/>
-    </g>
-    <g stroke-linecap="butt" font-size="20px" fill="white" text-rendering="geometricPrecision" font-family="'Arial'" shape-rendering="geometricPrecision" stroke="white" stroke-miterlimit="1.45">
-      <text x="301.3324" xml:space="preserve" y="127.2898" clip-path="url(#clipPath1)" stroke="none">Auswertung</text>
-      <text x="308.5541" xml:space="preserve" y="149.6336" clip-path="url(#clipPath1)" stroke="none">von Daten</text>
-      <text x="284.6771" xml:space="preserve" y="171.9773" clip-path="url(#clipPath1)" stroke="none">mittels Grafiken</text>
-    </g>
-    <g fill="silver" text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" stroke-linecap="butt" stroke="silver">
-      <rect x="264" y="98" clip-path="url(#clipPath1)" fill="none" width="180.28" rx="4" ry="4" height="89.4"/>
-    </g>
-    <g fill="rgb(51,51,51)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(51,51,51)">
-      <rect x="128.86" y="320" clip-path="url(#clipPath1)" width="219.28" rx="4" ry="4" height="93.4" stroke="none"/>
-    </g>
-    <g stroke-linecap="butt" font-size="20px" fill="white" text-rendering="geometricPrecision" font-family="'Arial'" shape-rendering="geometricPrecision" stroke="white" stroke-miterlimit="1.45">
-      <text x="147.3281" xml:space="preserve" y="351.2899" clip-path="url(#clipPath1)" stroke="none">Medienproduzierend</text>
-      <text x="152.8896" xml:space="preserve" y="373.6336" clip-path="url(#clipPath1)" stroke="none">Medienintegrierend</text>
-      <text x="164.5547" xml:space="preserve" y="395.9774" clip-path="url(#clipPath1)" stroke="none">Mendiennutzend</text>
-    </g>
-    <g fill="silver" text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" stroke-linecap="butt" stroke="silver">
-      <rect x="128.86" y="320" clip-path="url(#clipPath1)" fill="none" width="219.28" rx="4" ry="4" height="93.4"/>
-    </g>
-    <g fill="rgb(198,53,39)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(198,53,39)">
-      <ellipse rx="109.64" ry="31.7" clip-path="url(#clipPath1)" cx="358.36" cy="260.1" stroke="none"/>
-    </g>
-    <g stroke-linecap="butt" font-size="20px" fill="white" text-rendering="geometricPrecision" font-family="'Arial'" shape-rendering="geometricPrecision" stroke="white" font-weight="bold" stroke-miterlimit="1.45">
-      <text x="274.4537" xml:space="preserve" y="267.0336" clip-path="url(#clipPath1)" stroke="none">Papiertechnologe</text>
-    </g>
-    <g fill="silver" text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" stroke-linecap="butt" stroke="silver">
-      <ellipse rx="109.64" fill="none" ry="31.7" clip-path="url(#clipPath1)" cx="358.36" cy="260.1"/>
+    <g stroke-linecap="butt" fill="rgb(255,198,0)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke-dasharray="18,6" stroke="rgb(255,198,0)" stroke-width="3" stroke-miterlimit="1.45">
+      <path fill="none" d="M840.5326 67.8603 L857.6594 71.5031 L873.6219 76.5262 L887.7951 82.9776 L900 91 L910.0757 100.6658 L917.9337 111.7654 L923.5031 124.0188 L926.7136 137.1457 L927.4944 150.8661 L925.775 164.9 L921.4847 178.9672 L914.5531 192.7877 L904.9094 206.0813 L892.483 218.5679 L877.2034 229.9675 L859 240 L837.8555 248.4548 L813.9661 255.3997 L787.5812 260.9719 L758.9506 265.3087 L728.3237 268.5473 L695.95 270.825 L662.0791 272.2791 L626.9604 273.0469 L626.3552 273.0506" clip-path="url(#clipPath1)"/>
+      <path d="M612.6055 273.1339 L627.6506 280.5428 L627.5598 265.5431 Z" clip-path="url(#clipPath1)" stroke="none"/>
+      <path fill="none" d="M480 296.4002 L480 458.2267" clip-path="url(#clipPath1)" stroke="rgb(132,189,0)"/>
+      <path fill="rgb(132,189,0)" d="M480 471.9767 L487.5 456.9767 L472.5 456.9767 Z" clip-path="url(#clipPath1)" stroke="none"/>
+      <path fill="none" d="M472.7431 296.4018 L469.9961 305.9453 L466.4074 316.8148 L462.3152 327.3024 L457.5938 337.3125 L452.117 346.7497 L445.7592 355.5185 L438.3945 363.5234 L429.897 370.669 L420.1408 376.8597 L409 382 L396.3908 386.0263 L382.397 389.0023 L367.1445 391.0234 L350.7592 392.1852 L333.367 392.583 L331.0907 392.5493" clip-path="url(#clipPath1)" stroke="rgb(132,189,0)"/>
+      <path fill="rgb(132,189,0)" d="M317.3422 392.3458 L332.2296 400.067 L332.4516 385.0687 Z" clip-path="url(#clipPath1)" stroke="none"/>
+      <path fill="none" d="M486.8471 296.4018 L490.2578 305.9453 L494.6667 316.8148 L499.638 327.3024 L505.3125 337.3125 L511.8307 346.7497 L519.3333 355.5185 L527.9609 363.5234 L537.8542 370.669 L549.1536 376.8597 L562 382 L576.487 386.0263 L592.5208 389.0023 L609.9609 391.0234 L628.6667 392.1852 L641.9433 392.4515 L642.0433 392.4502" clip-path="url(#clipPath1)" stroke="rgb(132,189,0)"/>
+      <path fill="rgb(132,189,0)" d="M655.7932 392.4898 L640.8149 384.9467 L640.7717 399.9466 Z" clip-path="url(#clipPath1)" stroke="none"/>
+      <path fill="none" d="M283.1132 201.5741 L282.168 203.0117 L277.1111 211.3704 L272.8147 219.4617 L269.4688 227.2188 L267.2635 234.5748 L266.3889 241.463 L267.0352 247.8164 L269.3924 253.5683 L273.6506 258.6518 L280 263 L288.5673 266.5684 L299.2257 269.4016 L311.7852 271.5664 L326.0555 273.1296 L333.6333 273.6232 L333.7332 273.6265" clip-path="url(#clipPath1)"/>
+      <path d="M347.4645 274.344 L332.8763 266.0714 L332.0935 281.051 Z" clip-path="url(#clipPath1)" stroke="none"/>
     </g>
   </g>
 </svg>

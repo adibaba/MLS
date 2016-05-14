@@ -30,7 +30,7 @@
 
 <div class="quellen">
 
-- Etherpad bei Wikimedia &middot; [etherpad.wikimedia.org](https://etherpad.wikimedia.org/)
+- <span class="highlight">Etherpad bei Wikimedia</span> &middot; [etherpad.wikimedia.org](https://etherpad.wikimedia.org/)
 - Weitere öffentliche Installationen &middot;  [github.com/ether/etherpad-lite/wiki/Sites-that-run-Etherpad-Lite](https://github.com/ether/etherpad-lite/wiki/Sites-that-run-Etherpad-Lite)
 - Etherpad Homepage &middot; [etherpad.org](http://etherpad.org/)
 - Hintergrundgrafik:

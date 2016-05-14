@@ -35,7 +35,7 @@ date: Mai 2016
 
 <div class="quellen">
 
-- Etherpad bei Wikimedia &middot; [etherpad.wikimedia.org](https://etherpad.wikimedia.org/)
+- <span class="highlight">Etherpad bei Wikimedia</span> &middot; [etherpad.wikimedia.org](https://etherpad.wikimedia.org/)
 - Weitere öffentliche Installationen &middot;  [github.com/ether/etherpad-lite/wiki/Sites-that-run-Etherpad-Lite](https://github.com/ether/etherpad-lite/wiki/Sites-that-run-Etherpad-Lite)
 - Etherpad Homepage &middot; [etherpad.org](http://etherpad.org/)
 - Hintergrundgrafik:
@@ -45,7 +45,7 @@ date: Mai 2016
 
 </div>
 
-# Ergebnisse der Befragungen<br />und Aufbau der Workshops {data-background="Grafik/Hintergrund/Befragungen.jpg"}
+# Aufbau der Workshops, <br /> Einsatzmöglichkeiten digitaler Medien <br /> <br /> {data-background="Grafik/Hintergrund/Befragungen.jpg"}
 
 
 ## Schwerpunkte der Workshops {data-background="Grafik/Hintergrund/Befragungen.jpg"}
@@ -78,7 +78,7 @@ date: Mai 2016
 
 - Howe F., Knutzen, S.
 (2013).
-Digitale Medien in der gewerblich-technischen Berufsausbildung. Einsatzmöglichkeiten digitaler Medien in Lern- und Arbeitsaufgaben.
+<span class="highlight">Digitale Medien in der gewerblich-technischen Berufsausbildung. Einsatzmöglichkeiten digitaler Medien in Lern- und Arbeitsaufgaben</span>.
 [www.bibb.de/dokumente/pdf/Expertise_Howe_Knutzen.pdf](https://www.bibb.de/dokumente/pdf/Expertise_Howe_Knutzen.pdf)
 - Hintergrundgrafik:
   [www.pexels.com/photo/white-ceramic-coffee-mug-on-black-table-29977/](https://www.pexels.com/photo/white-ceramic-coffee-mug-on-black-table-29977/) &middot;
@@ -111,14 +111,10 @@ Digitale Medien in der gewerblich-technischen Berufsausbildung. Einsatzmöglichk
 ![](Grafik/Medienkompetenz/Baacke-4.svg)
 
 
-## Entwicklung von Medienkompetenz <br/> in der Berufsausbildung {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
+## Entwicklung von Medienkompetenz <br/> in der Berufsausbildung {data-background="Grafik/Hintergrund/Medienkompetenz.jpg"}
 
 Bundesinstitut für Berufsbildung (BIBB)  
 2013 - 2015
-
-## Medienkompetenz in der Berufsausbildung {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
-
-![](Grafik/Medienkompetenz/Medienkompetenz-BIBB-Zielgruppe.svg)
 
 ## Medienkompetenz in der Berufsausbildung {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
 
@@ -126,11 +122,14 @@ Bundesinstitut für Berufsbildung (BIBB)
 
 ## Medienkompetenz in der Berufsausbildung {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
 
-![](Grafik/Medienkompetenz/Medienkompetenz-BIBB-Ergebnis.svg)
+![](Grafik/Medienkompetenz/Medienkompetenz-BIBB-Zielgruppe.svg)
 
 ## Medienkompetenz in der Berufsausbildung {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
 
-![](Grafik/Medienkompetenz/Medienkompetenz-BIBB-Frage.svg)
+- Vorstellung der 19 Aspekte
+- Wichtige Punkte: Etherpad
+- Anschließend: Abstimmung  
+  Welche der Aspekte sollten im Betrieb <br /> verstärkt vermittelt werden?
 
 ## Medienkompetenz in der Berufsausbildung {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
 
@@ -156,7 +155,7 @@ Bundesinstitut für Berufsbildung (BIBB)
 
 ![](Grafik/Medienkompetenz/Medienkompetenz-BIBB-6.svg)
 
-## Welche Aspekte sollten <br/> im Betrieb geschult werden? {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
+## Welche der Aspekte sollten im Betrieb <br /> verstärkt vermittelt werden? {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
 
 ## <span class="iframe">Webseite: [http://pingo.upb.de/MEDIENKOMPETENZ-PINGO-ID](http://pingo.upb.de/MEDIENKOMPETENZ-PINGO-ID)</span> {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
 
@@ -178,9 +177,9 @@ Medienpädagogik. Grundlagen der Medienkommunikation.
 Tübingen: Niemeyer.
 - Krämer, H., Jordanski, J., Goertz, L.
 (2015).
-Medien anwenden und produzieren: Entwicklung von Medienkompetenz in der Berufsausbildung: Abschlussbericht.
+<span class="highlight">Medien anwenden und produzieren: Entwicklung von Medienkompetenz in der Berufsausbildung</span>: Abschlussbericht.
 [www2.bibb.de/bibbtools/de/ssl/dapro.php?proj=4.2.417](https://www2.bibb.de/bibbtools/de/ssl/dapro.php?proj=4.2.417)
-- PINGO – Peer Instruction for very large Groups &middot; [trypingo.com/de/](http://trypingo.com/de/) &middot; Universität Paderborn
+- <span class="highlight">PINGO</span> – Peer Instruction for very large Groups &middot; [trypingo.com/de/](http://trypingo.com/de/) &middot; Universität Paderborn
 - Hintergrundgrafik:
   [www.pexels.com/photo/apple-iphone-desk-office-425/](https://www.pexels.com/photo/apple-iphone-desk-office-425/) &middot;
   Vadim Sherbakov &middot;
@@ -208,7 +207,7 @@ Medien anwenden und produzieren: Entwicklung von Medienkompetenz in der Berufsau
 
 - Reinmann, G.
 (2013).
-Didaktisches Handeln: Die Beziehung zwischen Lerntheorien und Didaktischem Design.
+<span class="highlight">Didaktisches Handeln: Die Beziehung zwischen Lerntheorien und Didaktischem Design</span>.
 In M. Ebner & S. Schön (Hrsg.),
 L3T. Lehrbuch für Lernen und Lehren mit Technologien. 2. Auflage. 2013.  
 [l3t.eu/homepage/das-buch/ebook-2013/kapitel/o/id/93/name/didaktisches-handeln](http://l3t.eu/homepage/das-buch/ebook-2013/kapitel/o/id/93/name/didaktisches-handeln)
@@ -274,10 +273,10 @@ Grafik: DrawExpress Diagram Lite Bildschirmfoto
 
 <div class="quellen">
 
-- App "DrawExpress Diagram Lite" &middot;
+- App "<span class="highlight">DrawExpress Diagram Lite</span>" &middot;
   [www.drawexpress.com](http://www.drawexpress.com/) &middot;
   [play.google.com/store/apps/details?id=com.drawexpress.lite](https://play.google.com/store/apps/details?id=com.drawexpress.lite)
-- App "Nimbus Clipper - Clip Anything" &middot;
+- App "<span class="highlight">Nimbus Clipper - Clip Anything</span>" &middot;
   [nimbus.everhelper.me](https://nimbus.everhelper.me/) &middot;
   [play.google.com/store/apps/details?id=com.fvd.nimbus](https://play.google.com/store/apps/details?id=com.fvd.nimbus)
 - Grafik "DMU 60 Milling Machine":
@@ -298,8 +297,7 @@ Grafik: DrawExpress Diagram Lite Bildschirmfoto
 ## Technologien {data-background="Grafik/Hintergrund/Technologien_.jpg"}
 
 - Augmented Reality
-- Bluetooth Low Energy
-- QR-Codes
+- Beacons & QR-Codes
 - E-Assessment
 
 Vorstellung der Technologie, anschließend gemeinsame Diskussion mit Google Präsentationen
@@ -310,6 +308,8 @@ Vorstellung der Technologie, anschließend gemeinsame Diskussion mit Google Prä
 <iframe data-src="https://GOOGLE-DOCS-AR-IFRAME"></iframe>
 
 
+
+## Augmented Reality {data-background="Grafik/Hintergrund/Technologien.jpg"}
 
 ## Augmented Reality {data-background="Grafik/Hintergrund/Technologien_.jpg"}
 
@@ -455,9 +455,16 @@ Vorstellung der Technologie, anschließend gemeinsame Diskussion mit Google Prä
 
 
 
-## Beacons {data-background="Grafik/Hintergrund/Technologien_.jpg"}
+## Beacons & QR-Codes {data-background="Grafik/Hintergrund/Technologien.jpg"}
 
-##  {data-background="Grafik/Technologien/Beacon-Tablet.jpg"}
+## {data-background="Grafik/Technologien/Beacon-Tablet.jpg"}
+
+
+
+
+
+
+## E-Assessment {data-background="Grafik/Hintergrund/Technologien.jpg"}
 
 
 
@@ -490,7 +497,7 @@ Vorstellung der Technologie, anschließend gemeinsame Diskussion mit Google Prä
 ## Referenzen {data-background="Grafik/Hintergrund/Titel_.jpg"}
 
 <div class="quellen">
-- Diese Präsentation online  
+- <span class="highlight">Diese Präsentation online</span>  
 [adibaba.github.io/MLS](http://adibaba.github.io/MLS/)
 - Die MLS Projektseite  
 [www.mobil-lernen.com](https://www.mobil-lernen.com/)

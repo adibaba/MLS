@@ -35,23 +35,6 @@
     <node id="n1">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="960.0" x="0.0" y="630.0"/>
-          <y:Fill hasColor="false" transparent="false"/>
-          <y:BorderStyle hasColor="false" type="line" width="2.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Arial" fontSize="18" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="24.109375" modelName="custom" textColor="#FFFFFF" visible="true" width="724.1669921875" x="117.91650390625" y="2.9453125">Quelle: Krämer et al. (2015) - BIBB Abschlussbericht "Medien anwenden und produzieren"<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
-          <y:Shape type="roundrectangle"/>
-        </y:ShapeNode>
-      </data>
-    </node>
-    <node id="n2">
-      <data key="d6">
-        <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="0.0" y="0.0"/>
           <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
@@ -67,7 +50,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n3">
+    <node id="n2">
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="932.1999999999991" y="0.0"/>
@@ -85,7 +68,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n4">
+    <node id="n3">
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="930.0" y="630.0"/>
@@ -103,7 +86,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n5">
+    <node id="n4">
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="0.0" y="630.0"/>
@@ -121,15 +104,33 @@
         </y:ShapeNode>
       </data>
     </node>
+    <node id="n5">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="47.39999999999998" width="354.28000000000003" x="486.2800000000001" y="43.80000000000001"/>
+          <y:Fill color="#FFC600" transparent="false"/>
+          <y:BorderStyle color="#C0C0C0" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Arial" fontSize="28" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="35.28125" modelName="custom" textColor="#000000" visible="true" width="271.66796875" x="41.306015624999986" y="6.059374999999989">Gewerblich-technisch
+<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
     <node id="n6">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="93.39999999999998" width="219.28000000000003" x="614.0099999999865" y="320.0"/>
-          <y:Fill color="#333333" transparent="false"/>
+          <y:Geometry height="113.0" width="476.28000000000003" x="241.8599999999999" y="472.0"/>
+          <y:Fill color="#84BD00" transparent="false"/>
           <y:BorderStyle color="#C0C0C0" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Arial" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="71.03125" modelName="custom" textColor="#FFFFFF" visible="true" width="158.55078125" x="30.364609374999986" y="11.184374999999989">Einstieg, Verlauf
-und Ende der
-Berufsausbildung<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Arial" fontSize="28" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="97.84375" modelName="custom" textColor="#000000" visible="true" width="431.970703125" x="22.154648437499986" y="7.578125">Bildschirmunterstützte Einstellung,
+in neueren Versionen
+über Touchscreen-Monitore<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -143,12 +144,12 @@ Berufsausbildung<y:LabelModel>
     <node id="n7">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="93.39999999999998" width="219.28000000000003" x="371.85999999999996" y="320.0"/>
-          <y:Fill color="#333333" transparent="false"/>
+          <y:Geometry height="113.0" width="304.28000000000003" x="655.72" y="326.4"/>
+          <y:Fill color="#84BD00" transparent="false"/>
           <y:BorderStyle color="#C0C0C0" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Arial" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="71.03125" modelName="custom" textColor="#FFFFFF" visible="true" width="195.19140625" x="12.044296875000043" y="11.184374999999989">Gewerblich-technisch
-Kaufmännisch
-Handwerk/Dienstl.<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Arial" fontSize="28" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="97.84375" modelName="custom" textColor="#000000" visible="true" width="259.25390625" x="22.513046874999986" y="7.578125">Dokumentation von
+Arbeitsprozessdaten
+in Excel-Tabellen<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -162,12 +163,12 @@ Handwerk/Dienstl.<y:LabelModel>
     <node id="n8">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="89.39999999999998" width="329.28000000000003" x="465.28000000000003" y="98.0"/>
-          <y:Fill color="#00A3E0" transparent="false"/>
+          <y:Geometry height="113.0" width="245.28000000000003" x="72.07999999999987" y="326.4"/>
+          <y:Fill color="#84BD00" transparent="false"/>
           <y:BorderStyle color="#C0C0C0" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Arial" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="71.03125" modelName="custom" textColor="#FFFFFF" visible="true" width="309.693359375" x="9.793320312500043" y="9.184374999999989">Bildschirmunterstützte Einstellung,
-in neueren Versionen
-über Touchscreen-Monitore<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Arial" fontSize="28" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="97.84375" modelName="custom" textColor="#000000" visible="true" width="198.49609375" x="23.391953124999986" y="7.578125">Auswertung
+von Daten
+mittels Grafiken<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -181,12 +182,10 @@ in neueren Versionen
     <node id="n9">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="89.39999999999998" width="212.28000000000003" x="30.71999999999997" y="98.0"/>
-          <y:Fill color="#00A3E0" transparent="false"/>
-          <y:BorderStyle color="#C0C0C0" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Arial" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="71.03125" modelName="custom" textColor="#FFFFFF" visible="true" width="186.32421875" x="12.977890625000015" y="9.184374999999989">Dokumentation von
-Arbeitsprozessdaten
-in Excel-Tabellen<y:LabelModel>
+          <y:Geometry height="47.39999999999998" width="354.28000000000003" x="123.00000000000003" y="43.80000000000001"/>
+          <y:Fill color="#FFF9E6" transparent="false"/>
+          <y:BorderStyle color="#FFC600" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Arial" fontSize="28" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="35.28125" modelName="custom" textColor="#000000" visible="true" width="259.28125" x="47.499375000000015" y="6.059374999999989">Medienproduzierend<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -200,12 +199,10 @@ in Excel-Tabellen<y:LabelModel>
     <node id="n10">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="89.39999999999998" width="180.28000000000003" x="264.0" y="98.0"/>
-          <y:Fill color="#00A3E0" transparent="false"/>
+          <y:Geometry height="47.39999999999998" width="265.28000000000003" x="347.3599999999999" y="249.0"/>
+          <y:Fill color="#FF8200" transparent="false"/>
           <y:BorderStyle color="#C0C0C0" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Arial" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="71.03125" modelName="custom" textColor="#FFFFFF" visible="true" width="142.92578125" x="18.677109374999986" y="9.184374999999989">Auswertung
-von Daten
-mittels Grafiken<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Arial" fontSize="28" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="35.28125" modelName="custom" textColor="#000000" visible="true" width="221.943359375" x="21.668320312499986" y="6.059374999999989">Papiertechnologe<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -219,12 +216,10 @@ mittels Grafiken<y:LabelModel>
     <node id="n11">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="93.39999999999998" width="219.28000000000003" x="128.85999999999999" y="320.0"/>
-          <y:Fill color="#333333" transparent="false"/>
-          <y:BorderStyle color="#C0C0C0" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Arial" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="71.03125" modelName="custom" textColor="#FFFFFF" visible="true" width="186.34375" x="16.468125000000015" y="11.184374999999989">Medienproduzierend
-Medienintegrierend
-Mendiennutzend<y:LabelModel>
+          <y:Geometry height="47.39999999999998" width="354.28000000000003" x="486.2800000000001" y="99.0"/>
+          <y:Fill color="#FFF9E6" transparent="false"/>
+          <y:BorderStyle color="#FFC600" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Arial" fontSize="28" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="35.28125" modelName="custom" textColor="#000000" visible="true" width="181.43359375" x="86.42320312500004" y="6.059374999999989">Kaufmännisch<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -238,71 +233,121 @@ Mendiennutzend<y:LabelModel>
     <node id="n12">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="63.39999999999998" width="219.28000000000003" x="248.72" y="228.39999999999998"/>
-          <y:Fill color="#C63527" transparent="false"/>
-          <y:BorderStyle color="#C0C0C0" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Arial" fontSize="20" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="26.34375" modelName="custom" textColor="#FFFFFF" visible="true" width="171.8125" x="23.733750000000015" y="18.52812499999999">Papiertechnologe<y:LabelModel>
+          <y:Geometry height="47.39999999999998" width="354.28000000000003" x="122.99999999999997" y="99.0"/>
+          <y:Fill color="#FFF9E6" transparent="false"/>
+          <y:BorderStyle color="#FFC600" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Arial" fontSize="28" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="35.28125" modelName="custom" textColor="#000000" visible="true" width="243.708984375" x="55.285507812499986" y="6.059374999999989">Medienintegrierend<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
               <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
             </y:ModelParameter>
           </y:NodeLabel>
-          <y:Shape type="ellipse"/>
+          <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <edge id="e0" source="n11" target="n12">
-      <data key="d10">
-        <y:SplineEdge>
-          <y:Path sx="-109.64170477535697" sy="24.877367609753435" tx="0.0" ty="0.0">
-            <y:Point x="93.72000000000003" y="367.3000000000001"/>
-            <y:Point x="149.07999999999998" y="280.65999999999997"/>
-          </y:Path>
-          <y:LineStyle color="#C63527" type="dashed" width="3.0"/>
-          <y:Arrows source="none" target="delta"/>
-        </y:SplineEdge>
+    <node id="n13">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="47.39999999999998" width="354.28000000000003" x="486.2800000000001" y="154.2"/>
+          <y:Fill color="#FFF9E6" transparent="false"/>
+          <y:BorderStyle color="#FFC600" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Arial" fontSize="28" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="35.28125" modelName="custom" textColor="#000000" visible="true" width="313.708984375" x="20.285507812500043" y="6.059374999999989">Handwerk/Dienstleistung<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
       </data>
-    </edge>
-    <edge id="e1" source="n7" target="n12">
-      <data key="d10">
-        <y:SplineEdge>
-          <y:Path sx="106.94000000000005" sy="-23.07999999999987" tx="0.0" ty="0.0">
-            <y:Point x="607.0" y="318.0200000000001"/>
-            <y:Point x="563.8000000000001" y="282.86"/>
-          </y:Path>
-          <y:LineStyle color="#C63527" type="dashed" width="3.0"/>
-          <y:Arrows source="none" target="delta"/>
-        </y:SplineEdge>
+    </node>
+    <node id="n14">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="47.39999999999998" width="354.28000000000003" x="122.99999999999991" y="154.2"/>
+          <y:Fill color="#FFC600" transparent="false"/>
+          <y:BorderStyle color="#C0C0C0" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Arial" fontSize="28" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="35.28125" modelName="custom" textColor="#000000" visible="true" width="211.046875" x="71.61656250000001" y="6.059374999999989">Mendiennutzend<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
       </data>
-    </edge>
-    <edge id="e2" source="n12" target="n9">
+    </node>
+    <node id="n15">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="960.0" x="2.199999999999136" y="630.0"/>
+          <y:Fill hasColor="false" transparent="false"/>
+          <y:BorderStyle hasColor="false" type="line" width="2.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Arial" fontSize="18" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="24.109375" modelName="custom" textColor="#FFFFFF" visible="true" width="724.1669921875" x="117.91650390625" y="2.9453125">Quelle: Krämer et al. (2015) - BIBB Abschlussbericht "Medien anwenden und produzieren"<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <edge id="e0" source="n5" target="n10">
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="237.85999999999999" y="233.7"/>
+            <y:Point x="900.9999999999999" y="91.5"/>
+            <y:Point x="859.0" y="240.5"/>
           </y:Path>
-          <y:LineStyle color="#00A3E0" type="dashed" width="3.0"/>
+          <y:LineStyle color="#FFC600" type="dashed" width="3.0"/>
           <y:Arrows source="none" target="delta"/>
         </y:SplineEdge>
       </data>
     </edge>
-    <edge id="e3" source="n12" target="n10">
-      <data key="d10">
-        <y:SplineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="4.220000000000027" ty="0.0"/>
-          <y:LineStyle color="#00A3E0" type="dashed" width="3.0"/>
-          <y:Arrows source="none" target="delta"/>
-        </y:SplineEdge>
-      </data>
-    </edge>
-    <edge id="e4" source="n12" target="n8">
+    <edge id="e1" source="n14" target="n10">
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="508.92" y="240.7"/>
+            <y:Point x="280.9999999999999" y="263.9"/>
           </y:Path>
-          <y:LineStyle color="#00A3E0" type="dashed" width="3.0"/>
+          <y:LineStyle color="#FFC600" type="dashed" width="3.0"/>
+          <y:Arrows source="none" target="delta"/>
+        </y:SplineEdge>
+      </data>
+    </edge>
+    <edge id="e2" source="n10" target="n6">
+      <data key="d10">
+        <y:SplineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#84BD00" type="dashed" width="3.0"/>
+          <y:Arrows source="none" target="delta"/>
+        </y:SplineEdge>
+      </data>
+    </edge>
+    <edge id="e3" source="n10" target="n8">
+      <data key="d10">
+        <y:SplineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="409.7199999999999" y="382.9"/>
+          </y:Path>
+          <y:LineStyle color="#84BD00" type="dashed" width="3.0"/>
+          <y:Arrows source="none" target="delta"/>
+        </y:SplineEdge>
+      </data>
+    </edge>
+    <edge id="e4" source="n10" target="n7">
+      <data key="d10">
+        <y:SplineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="562.86" y="382.9"/>
+          </y:Path>
+          <y:LineStyle color="#84BD00" type="dashed" width="3.0"/>
           <y:Arrows source="none" target="delta"/>
         </y:SplineEdge>
       </data>

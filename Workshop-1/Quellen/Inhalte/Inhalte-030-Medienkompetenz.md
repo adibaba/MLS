@@ -23,14 +23,10 @@
 ![](Grafik/Medienkompetenz/Baacke-4.svg)
 
 
-## Entwicklung von Medienkompetenz <br/> in der Berufsausbildung {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
+## Entwicklung von Medienkompetenz <br/> in der Berufsausbildung {data-background="Grafik/Hintergrund/Medienkompetenz.jpg"}
 
 Bundesinstitut für Berufsbildung (BIBB)  
 2013 - 2015
-
-## Medienkompetenz in der Berufsausbildung {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
-
-![](Grafik/Medienkompetenz/Medienkompetenz-BIBB-Zielgruppe.svg)
 
 ## Medienkompetenz in der Berufsausbildung {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
 
@@ -38,11 +34,14 @@ Bundesinstitut für Berufsbildung (BIBB)
 
 ## Medienkompetenz in der Berufsausbildung {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
 
-![](Grafik/Medienkompetenz/Medienkompetenz-BIBB-Ergebnis.svg)
+![](Grafik/Medienkompetenz/Medienkompetenz-BIBB-Zielgruppe.svg)
 
 ## Medienkompetenz in der Berufsausbildung {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
 
-![](Grafik/Medienkompetenz/Medienkompetenz-BIBB-Frage.svg)
+- Vorstellung der 19 Aspekte
+- Wichtige Punkte: Etherpad
+- Anschließend: Abstimmung  
+  Welche der Aspekte sollten im Betrieb <br /> verstärkt vermittelt werden?
 
 ## Medienkompetenz in der Berufsausbildung {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
 
@@ -68,7 +67,7 @@ Bundesinstitut für Berufsbildung (BIBB)
 
 ![](Grafik/Medienkompetenz/Medienkompetenz-BIBB-6.svg)
 
-## Welche Aspekte sollten <br/> im Betrieb geschult werden? {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
+## Welche der Aspekte sollten im Betrieb <br /> verstärkt vermittelt werden? {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
 
 ## <span class="iframe">Webseite: [http://pingo.upb.de/MEDIENKOMPETENZ-PINGO-ID](http://pingo.upb.de/MEDIENKOMPETENZ-PINGO-ID)</span> {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
 
@@ -90,9 +89,9 @@ Medienpädagogik. Grundlagen der Medienkommunikation.
 Tübingen: Niemeyer.
 - Krämer, H., Jordanski, J., Goertz, L.
 (2015).
-Medien anwenden und produzieren: Entwicklung von Medienkompetenz in der Berufsausbildung: Abschlussbericht.
+<span class="highlight">Medien anwenden und produzieren: Entwicklung von Medienkompetenz in der Berufsausbildung</span>: Abschlussbericht.
 [www2.bibb.de/bibbtools/de/ssl/dapro.php?proj=4.2.417](https://www2.bibb.de/bibbtools/de/ssl/dapro.php?proj=4.2.417)
-- PINGO – Peer Instruction for very large Groups &middot; [trypingo.com/de/](http://trypingo.com/de/) &middot; Universität Paderborn
+- <span class="highlight">PINGO</span> – Peer Instruction for very large Groups &middot; [trypingo.com/de/](http://trypingo.com/de/) &middot; Universität Paderborn
 - Hintergrundgrafik:
   [www.pexels.com/photo/apple-iphone-desk-office-425/](https://www.pexels.com/photo/apple-iphone-desk-office-425/) &middot;
   Vadim Sherbakov &middot;

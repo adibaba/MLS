@@ -19,7 +19,7 @@
 
 - Reinmann, G.
 (2013).
-Didaktisches Handeln: Die Beziehung zwischen Lerntheorien und Didaktischem Design.
+<span class="highlight">Didaktisches Handeln: Die Beziehung zwischen Lerntheorien und Didaktischem Design</span>.
 In M. Ebner & S. Schön (Hrsg.),
 L3T. Lehrbuch für Lernen und Lehren mit Technologien. 2. Auflage. 2013.  
 [l3t.eu/homepage/das-buch/ebook-2013/kapitel/o/id/93/name/didaktisches-handeln](http://l3t.eu/homepage/das-buch/ebook-2013/kapitel/o/id/93/name/didaktisches-handeln)
