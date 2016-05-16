@@ -7,7 +7,7 @@
 
 - Augmented Reality
 - Beacons & QR-Codes
-- E-Assessment
+- E-Tests
 
 Vorstellung der Technologie, anschließend gemeinsame Diskussion mit Google Präsentationen
 

@@ -31,8 +31,22 @@
 
 
 
-## E-Assessment {data-background="Grafik/Hintergrund/Technologien.jpg"}
+## E-Tests {data-background="Grafik/Hintergrund/Technologien.jpg"}
 
+Zur Reflexion des eigenen Lernstands  
+(unbenotet)
+
+## E-Tests: Aufgabentypen {data-background="Grafik/Hintergrund/Technologien_.jpg"}
+
+![](Grafik/Technologien/E-Tests.svg)
+
+## E-Tests: Mögliche Themengebiete {data-background="Grafik/Hintergrund/Technologien_.jpg"}
+
+![](Grafik/Technologien/E-Tests-Themen.svg)
+
+## <span class="iframe">Webseite: [GOOGLE-DOCS-AR](https://GOOGLE-DOCS-AR)</span> {data-background="Grafik/Hintergrund/Technologien_.jpg"}
+
+<iframe data-src="https://GOOGLE-DOCS-AR-IFRAME"></iframe>
 
 
 
@@ -40,7 +54,15 @@
 ## Referenzen {data-background="Grafik/Hintergrund/Technologien_.jpg"}
 
 <div class="quellen">
-
+- Handke, J. & Schäfer, A. M.
+(2012).
+E-Learning, E-Teaching und E-Assessment in der Hochschullehre: eine Anleitung.
+München: Oldenbourg.
+- IHK Industrie- und Handelskammer Ostwestfalen zu Bielefeld.
+(2007).
+Verordnung über die Berufsausbildung zum Zerspanugsmechaniker/zur Zerspanugsmechanikerin vom 23. Juli 2007.
+Bielefeld: Bertelsmann.  
+[www.ostwestfalen.ihk.de/bildung/ausbildung/ihk-ausbildungsberufe-und-verordnungen/ausbildungsverordnungen/](https://www.ostwestfalen.ihk.de/bildung/ausbildung/ihk-ausbildungsberufe-und-verordnungen/ausbildungsverordnungen/)
 - Beacon-Foto:
   [flic.kr/p/mFcRo6](https://flic.kr/p/mFcRo6) &middot;
   Jona Nalder &middot;
