@@ -488,15 +488,36 @@ Vorstellung der Technologie, anschließend gemeinsame Diskussion mit Google Prä
 
 <iframe data-src="https://GOOGLE-DOCS-AR-IFRAME"></iframe>
 
+## Referenzen {data-background="Grafik/Hintergrund/Technologien_.jpg"}
 
+<div class="quellen">
 
+- Hintergrundgrafik:
+  [gratisography.com](http://gratisography.com) &middot;
+  Ryan McGuire &middot;
+  [CC0 1.0](http://creativecommons.org/publicdomain/zero/1.0/) Lizenz
+</div>
 
-
+# Technologien II {data-background="Grafik/Hintergrund/Technologien.jpg"}
 
 ## Beacons & QR-Codes {data-background="Grafik/Hintergrund/Technologien.jpg"}
 
 ## {data-background="Grafik/Technologien/Beacon-Tablet.jpg"}
 
+
+## Beacons im Betrieb {data-background="Grafik/Hintergrund/Technologien_.jpg"}
+
+![](Grafik/Technologien/BLE.svg)
+
+
+## Beacon-Szenarien {data-background="Grafik/Hintergrund/Technologien_.jpg"}
+
+![](Grafik/Technologien/BLE-Szenarien.svg)
+
+
+## <span class="iframe">Webseite: [GOOGLE-DOCS-AR](https://GOOGLE-DOCS-AR)</span> {data-background="Grafik/Hintergrund/Technologien_.jpg"}
+
+<iframe data-src="https://GOOGLE-DOCS-AR-IFRAME"></iframe>
 
 
 

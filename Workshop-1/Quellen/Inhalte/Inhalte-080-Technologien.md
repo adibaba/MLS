@@ -159,34 +159,10 @@ Vorstellung der Technologie, anschließend gemeinsame Diskussion mit Google Prä
 
 <iframe data-src="https://GOOGLE-DOCS-AR-IFRAME"></iframe>
 
-
-
-
-
-
-## Beacons & QR-Codes {data-background="Grafik/Hintergrund/Technologien.jpg"}
-
-## {data-background="Grafik/Technologien/Beacon-Tablet.jpg"}
-
-
-
-
-
-
-## E-Assessment {data-background="Grafik/Hintergrund/Technologien.jpg"}
-
-
-
-
-
 ## Referenzen {data-background="Grafik/Hintergrund/Technologien_.jpg"}
 
 <div class="quellen">
 
-- Beacon-Foto:
-  [flic.kr/p/mFcRo6](https://flic.kr/p/mFcRo6) &middot;
-  Jona Nalder &middot;
-  [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) Lizenz
 - Hintergrundgrafik:
   [gratisography.com](http://gratisography.com) &middot;
   Ryan McGuire &middot;
