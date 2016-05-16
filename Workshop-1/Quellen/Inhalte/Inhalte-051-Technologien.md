@@ -6,6 +6,13 @@
 ## {data-background="Grafik/Technologien/Beacon-Tablet.jpg"}
 
 
+## Beacons {data-background="Grafik/Hintergrund/Technologien_.jpg"}
+
+- Beacon: Radiergummi-Größe
+- Periodisches Senden einer ID/Adresse (z.B. 1x Sekunde)
+- Tablet empfängt Signale und bietet Aktionen an
+
+
 ## Beacons im Betrieb {data-background="Grafik/Hintergrund/Technologien_.jpg"}
 
 ![](Grafik/Technologien/BLE.svg)

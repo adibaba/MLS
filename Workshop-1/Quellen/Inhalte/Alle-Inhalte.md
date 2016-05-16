@@ -50,7 +50,12 @@ date: Mai 2016
 
 ## Schwerpunkte der Workshops {data-background="Grafik/Hintergrund/Befragungen.jpg"}
 
-![](Grafik/Befragungen/Workshops-Aufbau.svg)
+![](Grafik/DigitaleMedien-Workshop/Workshops-Aufbau.svg)
+
+
+## Zeitplanung {data-background="Grafik/Hintergrund/Befragungen.jpg"}
+
+![](Grafik/DigitaleMedien-Workshop/Zeit.svg)
 
 
 ## Software-Features {data-background="Grafik/Hintergrund/Befragungen.jpg"}
@@ -59,17 +64,17 @@ date: Mai 2016
 - Welche würden sie gerne in der Ausbildung nutzen?  
 - Ergebnisse zu 21 + 4 Features  
   <br />
-![](Grafik/Befragungen/BIBB-Digitale-Medien.svg)
+![](Grafik/DigitaleMedien-Workshop/BIBB-Digitale-Medien.svg)
 
 
 ## {data-background="Grafik/Hintergrund/Befragungen.jpg"}
 
-![](Grafik/Befragungen/sw_1_multiplot.svg)
+![](Grafik/DigitaleMedien-Workshop/sw_1_multiplot.svg)
 
 
 ## {data-background="Grafik/Hintergrund/Befragungen.jpg"}
 
-![](Grafik/Befragungen/sw_2_multiplot.svg)
+![](Grafik/DigitaleMedien-Workshop/sw_2_multiplot.svg)
 
 
 ## Referenzen {data-background="Grafik/Hintergrund/Befragungen.jpg"}
@@ -272,62 +277,6 @@ Bielefeld: Bertelsmann.
   [CC0 1.0](http://creativecommons.org/publicdomain/zero/1.0/) Lizenz
 </div>
 
-# Android
-
-# Software-Architektur
-
-
-
-
-## Referenzen
-
-<div class="quellen">
-
-- Wolfangel, E.
-(2016).
-Zehn Schlüsselfragen der Kryptografie.
-Spektrum der Wissenschaft.
-[www.spektrum.de/wissen/zehn-schluesselfragen-der-kryptografie/1407523](http://www.spektrum.de/wissen/zehn-schluesselfragen-der-kryptografie/1407523)
-
-</div>
-# <span style="color:#fff">Arbeiten mit Grafiken</span> {data-background="Grafik/Hintergrund/Grafik.jpg"}
-
-## {data-background="Grafik/Hintergrund/Grafik_.jpg"}
-
-![](Grafik/Grafik/NimbusClipper-Ergebnis.jpg)
-Grafik: Nimbus Clipper Ergebnis
-
-## {data-background="Grafik/Hintergrund/Grafik_.jpg"}
-
-![](Grafik/Grafik/DrawExpress-Screenshot.png)
-Grafik: DrawExpress Diagram Lite Bildschirmfoto
-
-## <span class="iframe">Webseite: [www.drawexpress.com/mtut.html](http://www.drawexpress.com/mtut.html)</span> {data-background="Grafik/Hintergrund/Grafik_.jpg"}
-
-<iframe data-src="http://www.drawexpress.com/mtut.html"></iframe>
-
-
-## Referenzen {data-background="Grafik/Hintergrund/Grafik_.jpg"}
-
-<div class="quellen">
-
-- App "<span class="highlight">DrawExpress Diagram Lite</span>" &middot;
-  [www.drawexpress.com](http://www.drawexpress.com/) &middot;
-  [play.google.com/store/apps/details?id=com.drawexpress.lite](https://play.google.com/store/apps/details?id=com.drawexpress.lite)
-- App "<span class="highlight">Nimbus Clipper - Clip Anything</span>" &middot;
-  [nimbus.everhelper.me](https://nimbus.everhelper.me/) &middot;
-  [play.google.com/store/apps/details?id=com.fvd.nimbus](https://play.google.com/store/apps/details?id=com.fvd.nimbus)
-- Grafik "DMU 60 Milling Machine":
-  [flic.kr/p/ggQHJa](https://flic.kr/p/ggQHJa) &middot;
-  Doggettx &middot;
-  [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) Lizenz
-- Hintergrundgrafik:
-  [www.pexels.com/photo/camera-old-vintage-photos-35107/](https://www.pexels.com/photo/camera-old-vintage-photos-35107/) &middot;
-  Dariusz Sankowski &middot;
-  [CC0 1.0](http://creativecommons.org/publicdomain/zero/1.0/) Lizenz
-
-</div>
-
 # Technologien {data-background="Grafik/Hintergrund/Technologien.jpg"}
 
 
@@ -505,6 +454,13 @@ Vorstellung der Technologie, anschließend gemeinsame Diskussion mit Google Prä
 ## {data-background="Grafik/Technologien/Beacon-Tablet.jpg"}
 
 
+## Beacons {data-background="Grafik/Hintergrund/Technologien_.jpg"}
+
+- Beacon: Radiergummi-Größe
+- Periodisches Senden einer ID/Adresse (z.B. 1x Sekunde)
+- Tablet empfängt Signale und bietet Aktionen an
+
+
 ## Beacons im Betrieb {data-background="Grafik/Hintergrund/Technologien_.jpg"}
 
 ![](Grafik/Technologien/BLE.svg)
@@ -541,6 +497,77 @@ Vorstellung der Technologie, anschließend gemeinsame Diskussion mit Google Prä
   [gratisography.com](http://gratisography.com) &middot;
   Ryan McGuire &middot;
   [CC0 1.0](http://creativecommons.org/publicdomain/zero/1.0/) Lizenz
+</div>
+
+# Android {data-background="Grafik/Hintergrund/Android.jpg"}
+
+
+## Referenzen {data-background="Grafik/Hintergrund/Android_.jpg"}
+
+<div class="quellen">
+
+- Hintergrundgrafik:
+  [flic.kr/p/aq4Xk8](https://flic.kr/p/aq4Xk8) &middot;
+  Rob Bulmahn &middot;
+  [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) Lizenz
+</div>
+
+# Software-Architektur, <br /> Datensicherheit {data-background="Grafik/Hintergrund/Architektur.jpg"}
+
+
+
+
+## Referenzen {data-background="Grafik/Hintergrund/Architektur_.jpg"}
+
+<div class="quellen">
+
+- Wolfangel, E.
+(2016).
+Zehn Schlüsselfragen der Kryptografie.
+Spektrum der Wissenschaft.
+[www.spektrum.de/wissen/zehn-schluesselfragen-der-kryptografie/1407523](http://www.spektrum.de/wissen/zehn-schluesselfragen-der-kryptografie/1407523)
+- Hintergrundgrafik:
+  [www.pexels.com/photo/travel-italy-cinque-attraction-27954/](https://www.pexels.com/photo/travel-italy-cinque-attraction-27954/) &middot;
+  Yoosun Won &middot;
+  [CC0 1.0](http://creativecommons.org/publicdomain/zero/1.0/) Lizenz
+</div>
+
+# <span style="color:#fff">Arbeiten mit Grafiken</span> {data-background="Grafik/Hintergrund/Grafik.jpg"}
+
+## {data-background="Grafik/Hintergrund/Grafik_.jpg"}
+
+![](Grafik/Grafik/NimbusClipper-Ergebnis.jpg)
+Grafik: Nimbus Clipper Ergebnis
+
+## {data-background="Grafik/Hintergrund/Grafik_.jpg"}
+
+![](Grafik/Grafik/DrawExpress-Screenshot.png)
+Grafik: DrawExpress Diagram Lite Bildschirmfoto
+
+## <span class="iframe">Webseite: [www.drawexpress.com/mtut.html](http://www.drawexpress.com/mtut.html)</span> {data-background="Grafik/Hintergrund/Grafik_.jpg"}
+
+<iframe data-src="http://www.drawexpress.com/mtut.html"></iframe>
+
+
+## Referenzen {data-background="Grafik/Hintergrund/Grafik_.jpg"}
+
+<div class="quellen">
+
+- App "<span class="highlight">DrawExpress Diagram Lite</span>" &middot;
+  [www.drawexpress.com](http://www.drawexpress.com/) &middot;
+  [play.google.com/store/apps/details?id=com.drawexpress.lite](https://play.google.com/store/apps/details?id=com.drawexpress.lite)
+- App "<span class="highlight">Nimbus Clipper - Clip Anything</span>" &middot;
+  [nimbus.everhelper.me](https://nimbus.everhelper.me/) &middot;
+  [play.google.com/store/apps/details?id=com.fvd.nimbus](https://play.google.com/store/apps/details?id=com.fvd.nimbus)
+- Grafik "DMU 60 Milling Machine":
+  [flic.kr/p/ggQHJa](https://flic.kr/p/ggQHJa) &middot;
+  Doggettx &middot;
+  [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) Lizenz
+- Hintergrundgrafik:
+  [www.pexels.com/photo/camera-old-vintage-photos-35107/](https://www.pexels.com/photo/camera-old-vintage-photos-35107/) &middot;
+  Dariusz Sankowski &middot;
+  [CC0 1.0](http://creativecommons.org/publicdomain/zero/1.0/) Lizenz
+
 </div>
 
 # Abschluss {data-background="Grafik/Hintergrund/Titel.jpg"}

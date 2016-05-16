@@ -4,7 +4,12 @@
 
 ## Schwerpunkte der Workshops {data-background="Grafik/Hintergrund/Befragungen.jpg"}
 
-![](Grafik/Befragungen/Workshops-Aufbau.svg)
+![](Grafik/DigitaleMedien-Workshop/Workshops-Aufbau.svg)
+
+
+## Zeitplanung {data-background="Grafik/Hintergrund/Befragungen.jpg"}
+
+![](Grafik/DigitaleMedien-Workshop/Zeit.svg)
 
 
 ## Software-Features {data-background="Grafik/Hintergrund/Befragungen.jpg"}
@@ -13,17 +18,17 @@
 - Welche würden sie gerne in der Ausbildung nutzen?  
 - Ergebnisse zu 21 + 4 Features  
   <br />
-![](Grafik/Befragungen/BIBB-Digitale-Medien.svg)
+![](Grafik/DigitaleMedien-Workshop/BIBB-Digitale-Medien.svg)
 
 
 ## {data-background="Grafik/Hintergrund/Befragungen.jpg"}
 
-![](Grafik/Befragungen/sw_1_multiplot.svg)
+![](Grafik/DigitaleMedien-Workshop/sw_1_multiplot.svg)
 
 
 ## {data-background="Grafik/Hintergrund/Befragungen.jpg"}
 
-![](Grafik/Befragungen/sw_2_multiplot.svg)
+![](Grafik/DigitaleMedien-Workshop/sw_2_multiplot.svg)
 
 
 ## Referenzen {data-background="Grafik/Hintergrund/Befragungen.jpg"}
