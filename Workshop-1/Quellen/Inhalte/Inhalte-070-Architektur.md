@@ -12,7 +12,14 @@
 <iframe data-src="http://www.submarinecablemap.com/"></iframe>
 
 
+## Tipps: Erklär-Videos im Web {data-background="Grafik/Hintergrund/Architektur_.jpg"}
 
+- Passwörter [youtu.be/jtFc6B5lmIM](https://youtu.be/jtFc6B5lmIM)
+- Sicher Surfen [youtu.be/tW1-CmggG9s](https://youtu.be/tW1-CmggG9s)
+- Anonym Surfen [youtu.be/OpSUmuG3Bp8](https://youtu.be/OpSUmuG3Bp8)
+- Daten Verschlüsseln [youtu.be/IhoG37uis3k](https://youtu.be/IhoG37uis3k)
+- Sicher Kommunizieren [youtu.be/4mbryW8fZrA](https://youtu.be/4mbryW8fZrA)
+- Die Sendung mit der Maus - Internet [www.wdrmaus.de/sachgeschichten/sachgeschichten/internet.php5](http://www.wdrmaus.de/sachgeschichten/sachgeschichten/internet.php5)
 
 
 ## Referenzen {data-background="Grafik/Hintergrund/Architektur_.jpg"}

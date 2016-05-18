@@ -8,6 +8,7 @@ pandoc --to=revealjs --standalone --template=../Vorlagen/template.htm \
 --variable theme="mls" \
 --variable transition="slide" \
 --variable slideNumber="true" \
+--variable center="true" \
 --variable revealjs-url="reveal.js-3.2.0" \
 ../Inhalte/Alle-Inhalte.md --output=../../Praesentation/index.htm
 
