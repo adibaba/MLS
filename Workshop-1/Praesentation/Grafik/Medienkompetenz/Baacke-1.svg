@@ -67,10 +67,112 @@
     </g>
     <g fill="rgb(255,198,0)" text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" stroke-linecap="butt" stroke="rgb(255,198,0)">
       <rect x="745" y="108" clip-path="url(#clipPath1)" fill="none" width="215" rx="4" ry="4" height="142"/>
-      <path fill="none" stroke-dasharray="18,6" d="M621.2971 268.9804 L619.1539 248.1505 L617.0977 225.6641 L615.4815 203.7037 L614.4521 182.4447 L614.1562 162.0625 L614.7406 142.7323 L616.3519 124.6296 L619.1367 107.9297 L623.2419 92.8079 L628.8141 79.4395 L636 68 L644.8974 58.6062 L655.4086 51.1412 L662.1376 47.9326 L662.2332 47.9029" stroke-width="3" clip-path="url(#clipPath1)"/>
-      <path stroke-dasharray="18,6" d="M675.0903 43.0289 L658.4058 41.333 L663.7229 55.359 Z" stroke-width="3" clip-path="url(#clipPath1)" stroke="none"/>
-      <path fill="none" stroke-dasharray="18,6" d="M754.2596 306.5049 L763.037 306.3518 L777.1406 305.2617 L790.088 303.2419 L801.7506 300.1891 L812 296 L820.7506 290.6057 L828.088 284.0752 L834.1406 276.5117 L839.037 268.0185 L841.0935 263.0645 L841.1219 262.9686" stroke-width="3" clip-path="url(#clipPath1)"/>
-      <path stroke-dasharray="18,6" d="M845.5009 249.9346 L833.6143 261.765 L847.8333 266.5421 Z" stroke-width="3" clip-path="url(#clipPath1)" stroke="none"/>
+    </g>
+    <g fill="rgb(250,252,230)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(250,252,230)">
+      <ellipse rx="145.5688" ry="50.4092" clip-path="url(#clipPath1)" cx="784.7716" cy="466.4092" stroke="none"/>
+    </g>
+    <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" font-size="24px" shape-rendering="geometricPrecision" font-family="'Arial'" stroke-linecap="butt">
+      <text x="709.3966" xml:space="preserve" y="447.9171" clip-path="url(#clipPath1)" stroke="none">Videorecorder</text>
+      <text x="671.3927" xml:space="preserve" y="474.7296" clip-path="url(#clipPath1)" stroke="none">nicht programmieren,</text>
+      <text x="706.0392" xml:space="preserve" y="501.5421" clip-path="url(#clipPath1)" stroke="none">nutzen können</text>
+    </g>
+    <g fill="rgb(208,223,0)" text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" stroke-linecap="butt" stroke="rgb(208,223,0)">
+      <ellipse rx="145.5688" fill="none" ry="50.4092" clip-path="url(#clipPath1)" cx="784.7716" cy="466.4092"/>
+    </g>
+    <g fill="rgb(250,252,230)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(250,252,230)">
+      <ellipse rx="75.1126" ry="25" clip-path="url(#clipPath1)" cx="471.3298" cy="225" stroke="none"/>
+    </g>
+    <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" font-size="24px" shape-rendering="geometricPrecision" font-family="'Arial'" stroke-linecap="butt">
+      <text x="422.6384" xml:space="preserve" y="233.3203" clip-path="url(#clipPath1)" stroke="none">Werbung</text>
+    </g>
+    <g fill="rgb(208,223,0)" text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" stroke-linecap="butt" stroke="rgb(208,223,0)">
+      <ellipse rx="75.1126" fill="none" ry="25" clip-path="url(#clipPath1)" cx="471.3298" cy="225"/>
+    </g>
+    <g fill="rgb(250,252,230)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(250,252,230)">
+      <ellipse rx="96.0222" ry="47.2733" clip-path="url(#clipPath1)" cx="548.9778" cy="131.8585" stroke="none"/>
+    </g>
+    <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" font-size="24px" shape-rendering="geometricPrecision" font-family="'Arial'" stroke-linecap="butt">
+      <text x="497.6263" xml:space="preserve" y="113.3663" clip-path="url(#clipPath1)" stroke="none">Verfasser</text>
+      <text x="473.6145" xml:space="preserve" y="140.1788" clip-path="url(#clipPath1)" stroke="none">von Texten im</text>
+      <text x="524.304" xml:space="preserve" y="166.9913" clip-path="url(#clipPath1)" stroke="none">Web</text>
+    </g>
+    <g fill="rgb(208,223,0)" text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" stroke-linecap="butt" stroke="rgb(208,223,0)">
+      <ellipse rx="96.0222" fill="none" ry="47.2733" clip-path="url(#clipPath1)" cx="548.9778" cy="131.8585"/>
+    </g>
+    <g fill="rgb(250,252,230)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(250,252,230)">
+      <ellipse rx="96.0222" ry="47.2733" clip-path="url(#clipPath1)" cx="339.5085" cy="60.9903" stroke="none"/>
+    </g>
+    <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" font-size="24px" shape-rendering="geometricPrecision" font-family="'Arial'" stroke-linecap="butt">
+      <text x="302.8171" xml:space="preserve" y="42.4981" clip-path="url(#clipPath1)" stroke="none">Videos</text>
+      <text x="266.1315" xml:space="preserve" y="69.3106" clip-path="url(#clipPath1)" stroke="none">streamen und</text>
+      <text x="287.4772" xml:space="preserve" y="96.1231" clip-path="url(#clipPath1)" stroke="none">speichern</text>
+    </g>
+    <g fill="rgb(208,223,0)" text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" stroke-linecap="butt" stroke="rgb(208,223,0)">
+      <ellipse rx="96.0222" fill="none" ry="47.2733" clip-path="url(#clipPath1)" cx="339.5085" cy="60.9903"/>
+    </g>
+    <g fill="rgb(250,252,230)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(250,252,230)">
+      <ellipse rx="87.7671" ry="25" clip-path="url(#clipPath1)" cx="548.0393" cy="38.717" stroke="none"/>
+    </g>
+    <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" font-size="24px" shape-rendering="geometricPrecision" font-family="'Arial'" stroke-linecap="butt">
+      <text x="475.342" xml:space="preserve" y="47.0373" clip-path="url(#clipPath1)" stroke="none">Alltagswissen</text>
+    </g>
+    <g fill="rgb(208,223,0)" text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" stroke-linecap="butt" stroke="rgb(208,223,0)">
+      <ellipse rx="87.7671" fill="none" ry="25" clip-path="url(#clipPath1)" cx="548.0393" cy="38.717"/>
+    </g>
+    <g fill="rgb(250,252,230)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(250,252,230)">
+      <ellipse rx="87.7671" ry="37.9092" clip-path="url(#clipPath1)" cx="853.9933" cy="573.4092" stroke="none"/>
+    </g>
+    <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" font-size="24px" shape-rendering="geometricPrecision" font-family="'Arial'" stroke-linecap="butt">
+      <text x="815.298" xml:space="preserve" y="568.3233" clip-path="url(#clipPath1)" stroke="none">Google</text>
+      <text x="795.2823" xml:space="preserve" y="595.1358" clip-path="url(#clipPath1)" stroke="none">site:upb.de</text>
+    </g>
+    <g fill="rgb(208,223,0)" text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" stroke-linecap="butt" stroke="rgb(208,223,0)">
+      <ellipse rx="87.7671" fill="none" ry="37.9092" clip-path="url(#clipPath1)" cx="853.9933" cy="573.4092"/>
+    </g>
+    <g fill="rgb(250,252,230)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(250,252,230)">
+      <ellipse rx="87.7671" ry="25.1592" clip-path="url(#clipPath1)" cx="655.5777" cy="541.9777" stroke="none"/>
+    </g>
+    <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" font-size="24px" shape-rendering="geometricPrecision" font-family="'Arial'" stroke-linecap="butt">
+      <text x="592.9" xml:space="preserve" y="550.298" clip-path="url(#clipPath1)" stroke="none">Wiki Syntax</text>
+    </g>
+    <g fill="rgb(208,223,0)" text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" stroke-linecap="butt" stroke="rgb(208,223,0)">
+      <ellipse rx="87.7671" fill="none" ry="25.1592" clip-path="url(#clipPath1)" cx="655.5777" cy="541.9777"/>
+    </g>
+    <g fill="rgb(250,252,230)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(250,252,230)">
+      <ellipse rx="92.7673" ry="25.1592" clip-path="url(#clipPath1)" cx="643.4589" cy="604.8408" stroke="none"/>
+    </g>
+    <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" font-size="24px" shape-rendering="geometricPrecision" font-family="'Arial'" stroke-linecap="butt">
+      <text x="567.4218" xml:space="preserve" y="613.1611" clip-path="url(#clipPath1)" stroke="none">Touch-Gesten</text>
+    </g>
+    <g fill="rgb(208,223,0)" text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" stroke-linecap="butt" stroke="rgb(208,223,0)">
+      <ellipse rx="92.7673" fill="none" ry="25.1592" clip-path="url(#clipPath1)" cx="643.4589" cy="604.8408"/>
+    </g>
+    <g fill="rgb(250,252,230)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(250,252,230)">
+      <ellipse rx="92.7673" ry="34.0523" clip-path="url(#clipPath1)" cx="312.5418" cy="170.4921" stroke="none"/>
+    </g>
+    <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" font-size="24px" shape-rendering="geometricPrecision" font-family="'Arial'" stroke-linecap="butt">
+      <text x="277.8719" xml:space="preserve" y="165.4061" clip-path="url(#clipPath1)" stroke="none">WLAN</text>
+      <text x="249.1727" xml:space="preserve" y="192.2186" clip-path="url(#clipPath1)" stroke="none">über Router</text>
+    </g>
+    <g fill="rgb(208,223,0)" text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" stroke-linecap="butt" stroke="rgb(208,223,0)">
+      <ellipse rx="92.7673" fill="none" ry="34.0523" clip-path="url(#clipPath1)" cx="312.5418" cy="170.4921"/>
+    </g>
+    <g fill="rgb(250,252,230)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(250,252,230)">
+      <ellipse rx="104.6588" ry="55.9098" clip-path="url(#clipPath1)" cx="121.4026" cy="95.3438" stroke="none"/>
+    </g>
+    <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" font-size="24px" shape-rendering="geometricPrecision" font-family="'Arial'" stroke-linecap="butt">
+      <text x="81.383" xml:space="preserve" y="76.8517" clip-path="url(#clipPath1)" stroke="none">Digitale</text>
+      <text x="36.6877" xml:space="preserve" y="103.6642" clip-path="url(#clipPath1)" stroke="none">Plattformen und</text>
+      <text x="48.0315" xml:space="preserve" y="130.4767" clip-path="url(#clipPath1)" stroke="none">Möglichkeiten</text>
+    </g>
+    <g fill="rgb(208,223,0)" text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" stroke-linecap="butt" stroke="rgb(208,223,0)">
+      <ellipse rx="104.6588" fill="none" ry="55.9098" clip-path="url(#clipPath1)" cx="121.4026" cy="95.3438"/>
+    </g>
+    <g stroke-linecap="butt" fill="rgb(255,198,0)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke-dasharray="18,6" stroke="rgb(255,198,0)" stroke-width="3" stroke-miterlimit="1.45">
+      <path fill="none" d="M662.3359 269.0158 L664.2081 267.6339 L671.025 262.05 L677.1738 256.2967 L682.5432 250.3457 L687.0219 244.1687 L690.4985 237.7377 L692.8616 231.0241 L694 224 L693.8656 216.6496 L692.6636 209.0077 L690.6625 201.1219 L688.1309 193.0395 L685.3372 184.8081 L682.55 176.475 L680.0378 168.0878 L678.0692 159.6938 L676.9125 151.3406 L676.8364 143.0756 L678.1094 134.9463 L681 127 L685.7057 119.2732 L692.1404 111.7577 L700.1469 104.4344 L709.5679 97.284 L710.903 96.4091 L710.9894 96.3588" clip-path="url(#clipPath1)"/>
+      <path d="M722.562 88.9332 L705.8871 90.7216 L713.9877 103.3461 Z" clip-path="url(#clipPath1)" stroke="none"/>
+      <path fill="none" d="M754.2596 306.5049 L763.037 306.3518 L777.1406 305.2617 L790.088 303.2419 L801.7506 300.1891 L812 296 L820.7506 290.6057 L828.088 284.0752 L834.1406 276.5117 L839.037 268.0185 L841.0935 263.0645 L841.1219 262.9686" clip-path="url(#clipPath1)"/>
+      <path d="M845.5009 249.9346 L833.6143 261.765 L847.8333 266.5421 Z" clip-path="url(#clipPath1)" stroke="none"/>
     </g>
   </g>
 </svg>
