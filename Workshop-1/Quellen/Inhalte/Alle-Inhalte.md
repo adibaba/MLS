@@ -3,7 +3,6 @@ title: MLS Workshop
 author: in Kooperation mit der <br /> VDW-Nachwuchsstiftung <br /><br /> Adrian Wilke <br /> Universität Paderborn
 date: Mai 2016
 ...
-
 # Etherpad<br /><br />Ein Online-Werkzeug<br />zur Zusammenarbeit {data-background="Grafik/Hintergrund/Etherpad.jpg"}
 
 ## Etherpad {data-background="Grafik/Hintergrund/Etherpad_.jpg"}
@@ -170,6 +169,10 @@ Bundesinstitut für Berufsbildung (BIBB)
 
 ![](Grafik/Medienkompetenz/Medienkompetenz-BIBB-Ausbildungsordnungen.svg)
 
+## {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
+
+![](Grafik/Medienkompetenz/Medienkompetenz-BIBB-Zustaendigkeiten.svg)
+
 
 
 ## Referenzen {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
@@ -313,6 +316,7 @@ Vorstellung der Technologie, anschließend gemeinsame Diskussion mit Google Prä
 - Möglichkeit 1
 - Exploratives Lernen an Maschinen
 - Annahme: 3D-Modell von Maschine steht zur Verfügung
+- 5 Video-Ausschnitte
 
 
 ## Augmented Reality:<br />Maschine im Fokus {data-background="Grafik/Hintergrund/Technologien_.jpg"}
@@ -376,11 +380,12 @@ Vorstellung der Technologie, anschließend gemeinsame Diskussion mit Google Prä
 
 
 
-## Augmented Reality:<br />Marker und Produkte {data-background="Grafik/Hintergrund/Technologien_.jpg"}
+## Augmented Reality:<br />Marker und Produkte {data-background="Grafik/Hintergrund/Technologien.jpg"}
 
 - Möglichkeit 2
 - Beliebige Positionen mit Markern versehen
 - Genutzt werden können die Produkte aus dem MLS Aufgabenpool
+- 3 Video-Ausschnitte
 
 
 ## Augmented Reality:<br />DIN A4 Blatt {data-background="Grafik/Hintergrund/Technologien_.jpg"}
@@ -478,6 +483,26 @@ Vorstellung der Technologie, anschließend gemeinsame Diskussion mit Google Prä
 
 
 
+## QR-Codes {data-background="Grafik/Hintergrund/Technologien.jpg"}
+
+## QR-Codes {data-background="Grafik/Hintergrund/Technologien_.jpg"}
+
+![](Grafik/Technologien/QR-Code.svg)
+
+
+## QR-Codes {data-background="Grafik/Hintergrund/Technologien_.jpg"}
+
+- Quick Response, Schnelle Rückmeldung
+- Fehlerkorrektur
+- Gedruckt, auf Bildschirm oder graviert
+- Anreicherung analoger Objekte mit digitalen Daten
+
+## <span class="iframe">Webseite: [GOOGLE-DOCS-AR](https://GOOGLE-DOCS-AR)</span> {data-background="Grafik/Hintergrund/Technologien_.jpg"}
+
+<iframe data-src="https://GOOGLE-DOCS-AR-IFRAME"></iframe>
+
+
+
 
 ## E-Tests {data-background="Grafik/Hintergrund/Technologien.jpg"}
 
@@ -524,6 +549,60 @@ Bielefeld: Bertelsmann.
 # Android {data-background="Grafik/Hintergrund/Android.jpg"}
 
 
+## Android {data-background="Grafik/Hintergrund/Android_.jpg"}
+
+- Software will benutzt werden
+- Nexus 9: Wie viele Tasten sind am Tablet?
+
+
+## Android Navigation {data-background="Grafik/Hintergrund/Android_.jpg"}
+
+- Statusleiste herunterziehen
+- 2 mal oder 2 Finger?
+
+
+## Android Navigation {data-background="Grafik/Hintergrund/Android_.jpg"}
+
+- Wie sieht das Chrome Symbol aus?
+- Navigation: &nbsp; &#9665; Zurück &nbsp; &#9711; Home &nbsp; &#9723; Menü
+
+
+## Android App Installation {data-background="Grafik/Hintergrund/Android_.jpg"}
+
+- Play Store:
+    - Was ist das?
+    - Wie sieht das Play Store Symbol aus?
+- Suchen und installieren Sie eine App  
+  zum Lesen von QR-Codes
+- Welche Berechtigungen werden von  
+  der App gefordert?
+
+
+## Android Berechtigungen {data-background="Grafik/Hintergrund/Android_.jpg"}
+
+![](Grafik/Android/Berechtigungen.svg)
+
+
+## Android Berechtigungen {data-background="Grafik/Hintergrund/Android_.jpg"}
+
+- Einstellungen
+- Apps
+- Zahnrad-Symbol
+- App-Berechtigungen
+
+## Android QR Code Scan {data-background="Grafik/Hintergrund/Android_.jpg"}
+
+![](Grafik/Technologien/QR-Code.svg)
+
+
+## Nexus 9 Screenshot {data-background="Grafik/Hintergrund/Android_.jpg"}
+
+- Leiser und Power
+- Wo werden Screenshots gespeichert?
+- Suche mit der App "ES Datei Explorer"  
+  [play.google.com/store/apps/details?id=com.estrongs.android.pop&hl=de](https://play.google.com/store/apps/details?id=com.estrongs.android.pop&hl=de)
+
+
 ## Referenzen {data-background="Grafik/Hintergrund/Android_.jpg"}
 
 <div class="quellen">
@@ -534,50 +613,44 @@ Bielefeld: Bertelsmann.
   [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) Lizenz
 </div>
 
-# Software-Architektur, <br /> Datensicherheit {data-background="Grafik/Hintergrund/Architektur.jpg"}
-
-
-## <span class="iframe">Webseite: [www.monitis.com/traceroute](https://www.monitis.com/traceroute/)</span> {data-background="Grafik/Hintergrund/Architektur_.jpg"}
-
-<iframe data-src="https://www.monitis.com/traceroute/"></iframe>
-
-
-## <span class="iframe">Webseite: [www.submarinecablemap.com](http://www.submarinecablemap.com/)</span> {data-background="Grafik/Hintergrund/Architektur_.jpg"}
-
-<iframe data-src="http://www.submarinecablemap.com/"></iframe>
-
-
-## Tipps: Erklär-Videos im Web {data-background="Grafik/Hintergrund/Architektur_.jpg"}
-
-- Passwörter [youtu.be/jtFc6B5lmIM](https://youtu.be/jtFc6B5lmIM)
-- Sicher Surfen [youtu.be/tW1-CmggG9s](https://youtu.be/tW1-CmggG9s)
-- Anonym Surfen [youtu.be/OpSUmuG3Bp8](https://youtu.be/OpSUmuG3Bp8)
-- Daten Verschlüsseln [youtu.be/IhoG37uis3k](https://youtu.be/IhoG37uis3k)
-- Sicher Kommunizieren [youtu.be/4mbryW8fZrA](https://youtu.be/4mbryW8fZrA)
-- Die Sendung mit der Maus - Internet [www.wdrmaus.de/sachgeschichten/sachgeschichten/internet.php5](http://www.wdrmaus.de/sachgeschichten/sachgeschichten/internet.php5)
-
-
-## Referenzen {data-background="Grafik/Hintergrund/Architektur_.jpg"}
-
-<div class="quellen">
-
-- Wolfangel, E.
-(2016).
-Zehn Schlüsselfragen der Kryptografie.
-Spektrum der Wissenschaft.
-[www.spektrum.de/wissen/zehn-schluesselfragen-der-kryptografie/1407523](http://www.spektrum.de/wissen/zehn-schluesselfragen-der-kryptografie/1407523)
-- Hintergrundgrafik:
-  [www.pexels.com/photo/travel-italy-cinque-attraction-27954/](https://www.pexels.com/photo/travel-italy-cinque-attraction-27954/) &middot;
-  Yoosun Won &middot;
-  [CC0 1.0](http://creativecommons.org/publicdomain/zero/1.0/) Lizenz
-</div>
-
 # <span style="color:#fff">Arbeiten mit Grafiken</span> {data-background="Grafik/Hintergrund/Grafik.jpg"}
+
+
+## Vor- und Nachteile {data-background="Grafik/Hintergrund/Grafik_.jpg"}
+
+<strong>Rastergrafik</strong>
+
+- bestehen aus gefärbten Pixeln
+- Kompression
+- z.B. Foto im JPEG-Format
+
+<strong>Vektorgrafik</strong>
+
+- aus grafischen Primitiven  
+  (Linien, Polygone, Kurven)
+- Skalierung
+- z.B. Strichzeichnungen
+
+
+## Rastergrafik App {data-background="Grafik/Hintergrund/Grafik_.jpg"}
+
+- Nimbus Clipper
+- [https://play.google.com/store/apps/details?id=com.fvd.nimbus](https://play.google.com/store/apps/details?id=com.fvd.nimbus)
+- Foto: [flic.kr/p/ggQHJa](https://flic.kr/p/ggQHJa)
+
 
 ## {data-background="Grafik/Hintergrund/Grafik_.jpg"}
 
 ![](Grafik/Grafik/NimbusClipper-Ergebnis.jpg)
 Grafik: Nimbus Clipper Ergebnis
+
+
+## Vektorgrafik App {data-background="Grafik/Hintergrund/Grafik_.jpg"}
+
+- DrawExpress Diagram Lite [https://play.google.com/store/apps/details?id=com.drawexpress.lite](https://play.google.com/store/apps/details?id=com.drawexpress.lite)
+
+- Gestenbasiert
+
 
 ## {data-background="Grafik/Hintergrund/Grafik_.jpg"}
 
@@ -610,10 +683,69 @@ Grafik: DrawExpress Diagram Lite Bildschirmfoto
 
 </div>
 
+# Software-Architektur, <br /> Datensicherheit {data-background="Grafik/Hintergrund/Architektur.jpg"}
+
+## Internet-Routing {data-background="Grafik/Hintergrund/Architektur_.jpg"}
+
+- Welchen Weg gehen Daten im Internet?
+- Traceroute: Software die ermittelt, über welche Punkte im Internet Daten verlaufen 
+
+
+## <span class="iframe">Webseite: [www.monitis.com/traceroute](https://www.monitis.com/traceroute/)</span> {data-background="Grafik/Hintergrund/Architektur_.jpg"}
+
+<iframe data-src="https://www.monitis.com/traceroute/"></iframe>
+
+
+## <span class="iframe">Webseite: [www.submarinecablemap.com](http://www.submarinecablemap.com/)</span> {data-background="Grafik/Hintergrund/Architektur_.jpg"}
+
+<iframe data-src="http://www.submarinecablemap.com/"></iframe>
+
+
+## Verschlüsselung {data-background="Grafik/Hintergrund/Architektur_.jpg"}
+
+![](Grafik/Architektur/Verschluesselung.svg)
+
+
+
+## Verschlüsselung: Was wofür? {data-background="Grafik/Hintergrund/Architektur_.jpg"}
+
+![](Grafik/Architektur/Verschluesselung-Messenger.svg)
+
+
+## <span class="iframe">Webseite: [www.eff.org/secure-messaging-scorecard](https://www.eff.org/secure-messaging-scorecard)</span> {data-background="Grafik/Hintergrund/Architektur_.jpg"}
+
+<iframe data-src="https://www.eff.org/secure-messaging-scorecard"></iframe>
+
+## Tipps: Erklär-Videos im Web {data-background="Grafik/Hintergrund/Architektur_.jpg"}
+
+- Passwörter [youtu.be/jtFc6B5lmIM](https://youtu.be/jtFc6B5lmIM)
+- Sicher Surfen [youtu.be/tW1-CmggG9s](https://youtu.be/tW1-CmggG9s)
+- Anonym Surfen [youtu.be/OpSUmuG3Bp8](https://youtu.be/OpSUmuG3Bp8)
+- Daten Verschlüsseln [youtu.be/IhoG37uis3k](https://youtu.be/IhoG37uis3k)
+- Sicher Kommunizieren [youtu.be/4mbryW8fZrA](https://youtu.be/4mbryW8fZrA)
+- Die Sendung mit der Maus - Internet [www.wdrmaus.de/sachgeschichten/sachgeschichten/internet.php5](http://www.wdrmaus.de/sachgeschichten/sachgeschichten/internet.php5)
+
+
+## Referenzen {data-background="Grafik/Hintergrund/Architektur_.jpg"}
+
+<div class="quellen">
+
+- Wolfangel, E.
+(2016).
+Zehn Schlüsselfragen der Kryptografie.
+Spektrum der Wissenschaft.
+[www.spektrum.de/wissen/zehn-schluesselfragen-der-kryptografie/1407523](http://www.spektrum.de/wissen/zehn-schluesselfragen-der-kryptografie/1407523)
+- Hintergrundgrafik:
+  [www.pexels.com/photo/travel-italy-cinque-attraction-27954/](https://www.pexels.com/photo/travel-italy-cinque-attraction-27954/) &middot;
+  Yoosun Won &middot;
+  [CC0 1.0](http://creativecommons.org/publicdomain/zero/1.0/) Lizenz
+</div>
+
 # Abschluss {data-background="Grafik/Hintergrund/Titel.jpg"}
 
 ## Abschluss {data-background="Grafik/Hintergrund/Titel_.jpg"}
 
+- Austausch & Fragen
 - Befragung zum Workshop
 - E-Mail-Adressen
     - Workshop-Material

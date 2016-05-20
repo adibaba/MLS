@@ -2,6 +2,60 @@
 # Android {data-background="Grafik/Hintergrund/Android.jpg"}
 
 
+## Android {data-background="Grafik/Hintergrund/Android_.jpg"}
+
+- Software will benutzt werden
+- Nexus 9: Wie viele Tasten sind am Tablet?
+
+
+## Android Navigation {data-background="Grafik/Hintergrund/Android_.jpg"}
+
+- Statusleiste herunterziehen
+- 2 mal oder 2 Finger?
+
+
+## Android Navigation {data-background="Grafik/Hintergrund/Android_.jpg"}
+
+- Wie sieht das Chrome Symbol aus?
+- Navigation: &nbsp; &#9665; Zurück &nbsp; &#9711; Home &nbsp; &#9723; Menü
+
+
+## Android App Installation {data-background="Grafik/Hintergrund/Android_.jpg"}
+
+- Play Store:
+    - Was ist das?
+    - Wie sieht das Play Store Symbol aus?
+- Suchen und installieren Sie eine App  
+  zum Lesen von QR-Codes
+- Welche Berechtigungen werden von  
+  der App gefordert?
+
+
+## Android Berechtigungen {data-background="Grafik/Hintergrund/Android_.jpg"}
+
+![](Grafik/Android/Berechtigungen.svg)
+
+
+## Android Berechtigungen {data-background="Grafik/Hintergrund/Android_.jpg"}
+
+- Einstellungen
+- Apps
+- Zahnrad-Symbol
+- App-Berechtigungen
+
+## Android QR Code Scan {data-background="Grafik/Hintergrund/Android_.jpg"}
+
+![](Grafik/Technologien/QR-Code.svg)
+
+
+## Nexus 9 Screenshot {data-background="Grafik/Hintergrund/Android_.jpg"}
+
+- Leiser und Power
+- Wo werden Screenshots gespeichert?
+- Suche mit der App "ES Datei Explorer"  
+  [play.google.com/store/apps/details?id=com.estrongs.android.pop&hl=de](https://play.google.com/store/apps/details?id=com.estrongs.android.pop&hl=de)
+
+
 ## Referenzen {data-background="Grafik/Hintergrund/Android_.jpg"}
 
 <div class="quellen">

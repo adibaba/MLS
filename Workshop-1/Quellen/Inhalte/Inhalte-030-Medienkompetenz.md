@@ -77,6 +77,10 @@ Bundesinstitut für Berufsbildung (BIBB)
 
 ![](Grafik/Medienkompetenz/Medienkompetenz-BIBB-Ausbildungsordnungen.svg)
 
+## {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
+
+![](Grafik/Medienkompetenz/Medienkompetenz-BIBB-Zustaendigkeiten.svg)
+
 
 
 ## Referenzen {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}

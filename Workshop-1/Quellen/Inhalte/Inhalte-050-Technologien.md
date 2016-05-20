@@ -35,6 +35,7 @@ Vorstellung der Technologie, anschließend gemeinsame Diskussion mit Google Prä
 - Möglichkeit 1
 - Exploratives Lernen an Maschinen
 - Annahme: 3D-Modell von Maschine steht zur Verfügung
+- 5 Video-Ausschnitte
 
 
 ## Augmented Reality:<br />Maschine im Fokus {data-background="Grafik/Hintergrund/Technologien_.jpg"}
@@ -98,11 +99,12 @@ Vorstellung der Technologie, anschließend gemeinsame Diskussion mit Google Prä
 
 
 
-## Augmented Reality:<br />Marker und Produkte {data-background="Grafik/Hintergrund/Technologien_.jpg"}
+## Augmented Reality:<br />Marker und Produkte {data-background="Grafik/Hintergrund/Technologien.jpg"}
 
 - Möglichkeit 2
 - Beliebige Positionen mit Markern versehen
 - Genutzt werden können die Produkte aus dem MLS Aufgabenpool
+- 3 Video-Ausschnitte
 
 
 ## Augmented Reality:<br />DIN A4 Blatt {data-background="Grafik/Hintergrund/Technologien_.jpg"}

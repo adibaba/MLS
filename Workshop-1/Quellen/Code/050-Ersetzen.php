@@ -20,12 +20,12 @@ $content = str_replace($search, $replace, $content);
 
 
 // Replace
-$search  = 'MEDIENKOMPETENZ-PINGO-ID';
+$search  = 'ETHERPAD-ID';
 $replace = '';
 $content = str_replace($search, $replace, $content);
 
 // Replace
-$search  = 'ETHERPAD-ID';
+$search  = 'MEDIENKOMPETENZ-PINGO-ID';
 $replace = '';
 $content = str_replace($search, $replace, $content);
 

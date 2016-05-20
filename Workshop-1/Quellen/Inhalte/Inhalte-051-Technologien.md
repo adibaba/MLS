@@ -30,6 +30,26 @@
 
 
 
+## QR-Codes {data-background="Grafik/Hintergrund/Technologien.jpg"}
+
+## QR-Codes {data-background="Grafik/Hintergrund/Technologien_.jpg"}
+
+![](Grafik/Technologien/QR-Code.svg)
+
+
+## QR-Codes {data-background="Grafik/Hintergrund/Technologien_.jpg"}
+
+- Quick Response, Schnelle Rückmeldung
+- Fehlerkorrektur
+- Gedruckt, auf Bildschirm oder graviert
+- Anreicherung analoger Objekte mit digitalen Daten
+
+## <span class="iframe">Webseite: [GOOGLE-DOCS-AR](https://GOOGLE-DOCS-AR)</span> {data-background="Grafik/Hintergrund/Technologien_.jpg"}
+
+<iframe data-src="https://GOOGLE-DOCS-AR-IFRAME"></iframe>
+
+
+
 
 ## E-Tests {data-background="Grafik/Hintergrund/Technologien.jpg"}
 
