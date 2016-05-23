@@ -607,10 +607,19 @@ Bielefeld: Bertelsmann.
   [play.google.com/store/apps/details?id=com.estrongs.android.pop&hl=de](https://play.google.com/store/apps/details?id=com.estrongs.android.pop&hl=de)
 
 
+## {data-background="Grafik/Hintergrund/Android_.jpg"}
+
+![](Grafik/Android/PadagogyRad41.jpg)
+
+
 ## Referenzen {data-background="Grafik/Hintergrund/Android_.jpg"}
 
 <div class="quellen">
 
+- Padagogy Rad
+  [integrate2learn.com](https://integrate2learn.com/) &middot;
+  Basierend auf dem Papdagogy Wheel von Allan Carrington  &middot;
+  [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) Lizenz
 - Hintergrundgrafik:
   [flic.kr/p/aq4Xk8](https://flic.kr/p/aq4Xk8) &middot;
   Rob Bulmahn &middot;
