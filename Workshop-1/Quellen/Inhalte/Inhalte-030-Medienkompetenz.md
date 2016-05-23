@@ -75,6 +75,10 @@ Bundesinstitut für Berufsbildung (BIBB)
 
 ## {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
 
+![](Grafik/Medienkompetenz/Ergebnisse-erster-Termin.png)
+
+## {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
+
 ![](Grafik/Medienkompetenz/Medienkompetenz-BIBB-Ausbildungsordnungen.svg)
 
 ## {data-background="Grafik/Hintergrund/Medienkompetenz_.jpg"}
