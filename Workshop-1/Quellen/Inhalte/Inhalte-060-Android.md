@@ -2,58 +2,34 @@
 # Android {data-background="Grafik/Hintergrund/Android.jpg"}
 
 
-## Android {data-background="Grafik/Hintergrund/Android_.jpg"}
+## {data-background="Grafik/Hintergrund/Android_.jpg"}
 
-- Software will benutzt werden
-- Nexus 9: Wie viele Tasten sind am Tablet?
-
-
-## Android Navigation {data-background="Grafik/Hintergrund/Android_.jpg"}
-
-- Statusleiste herunterziehen
-- 2 mal oder 2 Finger?
+![](Grafik/Android/Screen.jpg)
 
 
-## Android Navigation {data-background="Grafik/Hintergrund/Android_.jpg"}
+## {data-background="Grafik/Hintergrund/Android_.jpg"}
 
-- Wie sieht das Chrome Symbol aus?
-- Navigation: &nbsp; &#9665; Zurück &nbsp; &#9711; Home &nbsp; &#9723; Menü
+![](Grafik/Android/Screen_Einstellungen.jpg)
 
 
-## Android App Installation {data-background="Grafik/Hintergrund/Android_.jpg"}
+## {data-background="Grafik/Hintergrund/Android_.jpg"}
 
-- Play Store:
-    - Was ist das?
-    - Wie sieht das Play Store Symbol aus?
-- Suchen und installieren Sie eine App  
-  zum Lesen von QR-Codes
-- Welche Berechtigungen werden von  
-  der App gefordert?
+![](Grafik/Android/Screen_Zurueck_Home_Menu.jpg)
+
+
+## {data-background="Grafik/Hintergrund/Android_.jpg"}
+
+![](Grafik/Android/Screen_Aktive_Apps.jpg)
+
+
+## {data-background="Grafik/Hintergrund/Android_.jpg"}
+
+![](Grafik/Android/Screen_Browser_Apps_Einstellungen_Store.jpg)
 
 
 ## Android Berechtigungen {data-background="Grafik/Hintergrund/Android_.jpg"}
 
 ![](Grafik/Android/Berechtigungen.svg)
-
-
-## Android Berechtigungen {data-background="Grafik/Hintergrund/Android_.jpg"}
-
-- Einstellungen
-- Apps
-- Zahnrad-Symbol
-- App-Berechtigungen
-
-## Android QR Code Scan {data-background="Grafik/Hintergrund/Android_.jpg"}
-
-![](Grafik/Technologien/QR-Code.svg)
-
-
-## Nexus 9 Screenshot {data-background="Grafik/Hintergrund/Android_.jpg"}
-
-- Leiser und Power
-- Wo werden Screenshots gespeichert?
-- Suche mit der App "ES Datei Explorer"  
-  [play.google.com/store/apps/details?id=com.estrongs.android.pop&hl=de](https://play.google.com/store/apps/details?id=com.estrongs.android.pop&hl=de)
 
 
 ## {data-background="Grafik/Hintergrund/Android_.jpg"}
@@ -73,7 +49,7 @@
 - Walter Apps: Zerspanungsrechner / Verschleiß Optimierung
   [www.walter-tools.com/de-de/press/media-portal/apps](http://www.walter-tools.com/de-de/press/media-portal/apps)
 - Carl Zeiss: Form und Lage
-  [play.google.com/store/apps/details?id=de.zeiss.imt.formundlage&hl=de](https://play.google.com/store/apps/details?id=de.zeiss.imt.formundlage&hl=de) 
+  [play.google.com/store/apps/details?id=de.zeiss.imt.formundlage&hl=de](https://play.google.com/store/apps/details?id=de.zeiss.imt.formundlage&hl=de)
 
 
 ## Referenzen {data-background="Grafik/Hintergrund/Android_.jpg"}
