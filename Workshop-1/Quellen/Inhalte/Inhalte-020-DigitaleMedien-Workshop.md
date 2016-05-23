@@ -31,6 +31,11 @@
 ![](Grafik/DigitaleMedien-Workshop/sw_2_multiplot.svg)
 
 
+## {data-background="Grafik/Hintergrund/Befragungen.jpg"}
+
+![](Grafik/DigitaleMedien-Workshop/Features-MLS.svg)
+
+
 ## Referenzen {data-background="Grafik/Hintergrund/Befragungen.jpg"}
 
 <div class="quellen">

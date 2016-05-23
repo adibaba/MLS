@@ -76,6 +76,11 @@ date: Mai 2016
 ![](Grafik/DigitaleMedien-Workshop/sw_2_multiplot.svg)
 
 
+## {data-background="Grafik/Hintergrund/Befragungen.jpg"}
+
+![](Grafik/DigitaleMedien-Workshop/Features-MLS.svg)
+
+
 ## Referenzen {data-background="Grafik/Hintergrund/Befragungen.jpg"}
 
 <div class="quellen">
@@ -282,6 +287,146 @@ Bielefeld: Bertelsmann.
   [www.pexels.com/photo/calculations-mathematics-university-learning-7462/](https://www.pexels.com/photo/calculations-mathematics-university-learning-7462/) &middot;
   Sergey Zolkin &middot;
   [CC0 1.0](http://creativecommons.org/publicdomain/zero/1.0/) Lizenz
+</div>
+
+# Android {data-background="Grafik/Hintergrund/Android.jpg"}
+
+
+## {data-background="Grafik/Hintergrund/Android_.jpg"}
+
+![](Grafik/Android/Screen.jpg)
+
+
+## {data-background="Grafik/Hintergrund/Android_.jpg"}
+
+![](Grafik/Android/Screen_Einstellungen.jpg)
+
+
+## {data-background="Grafik/Hintergrund/Android_.jpg"}
+
+![](Grafik/Android/Screen_Zurueck_Home_Menu.jpg)
+
+
+## {data-background="Grafik/Hintergrund/Android_.jpg"}
+
+![](Grafik/Android/Screen_Aktive_Apps.jpg)
+
+
+## {data-background="Grafik/Hintergrund/Android_.jpg"}
+
+![](Grafik/Android/Screen_Browser_Apps_Einstellungen_Store.jpg)
+
+
+## Android Berechtigungen {data-background="Grafik/Hintergrund/Android_.jpg"}
+
+![](Grafik/Android/Berechtigungen.svg)
+
+
+## {data-background="Grafik/Hintergrund/Android_.jpg"}
+
+![](Grafik/Android/AndroidBloom.png)
+
+
+## {data-background="Grafik/Hintergrund/Android_.jpg"}
+
+![](Grafik/Android/PadagogyRad41.jpg)
+
+
+## Apps (exemplarisch) {data-background="Grafik/Hintergrund/Android_.jpg"}
+
+- 10 empfehlenswerte Maschinenbau-Apps
+  [blog.item24.de/artikel-details/show-blog-article/wissen/10-empfehlenswerte-maschinenbau-apps.html](http://blog.item24.de/artikel-details/show-blog-article/wissen/10-empfehlenswerte-maschinenbau-apps.html)
+- Walter Apps: Zerspanungsrechner / Verschleiß Optimierung
+  [www.walter-tools.com/de-de/press/media-portal/apps](http://www.walter-tools.com/de-de/press/media-portal/apps)
+- Carl Zeiss: Form und Lage
+  [play.google.com/store/apps/details?id=de.zeiss.imt.formundlage&hl=de](https://play.google.com/store/apps/details?id=de.zeiss.imt.formundlage&hl=de)
+
+
+## Referenzen {data-background="Grafik/Hintergrund/Android_.jpg"}
+
+<div class="quellen">
+
+- Grafik "Android Apps to Support Bloom's Revised Taxonomy" &middot;
+  [www.schrockguide.net/bloomin-apps.html](http://www.schrockguide.net/bloomin-apps.html) &middot;
+  Kathy Schrock
+- Grafik "Padagogy Rad"
+  [integrate2learn.com](https://integrate2learn.com/) &middot;
+  Basierend auf dem Papdagogy Wheel von Allan Carrington  &middot;
+  [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) Lizenz
+- Hintergrundgrafik:
+  [flic.kr/p/aq4Xk8](https://flic.kr/p/aq4Xk8) &middot;
+  Rob Bulmahn &middot;
+  [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) Lizenz
+</div>
+
+# <span style="color:#fff">Arbeiten mit Grafiken</span> {data-background="Grafik/Hintergrund/Grafik.jpg"}
+
+
+## Vor- und Nachteile {data-background="Grafik/Hintergrund/Grafik_.jpg"}
+
+<strong>Rastergrafik</strong>
+
+- bestehen aus gefärbten Pixeln
+- Kompression
+- z.B. Foto im JPEG-Format
+
+<strong>Vektorgrafik</strong>
+
+- aus grafischen Primitiven  
+  (Linien, Polygone, Kurven)
+- Skalierung
+- z.B. Strichzeichnungen
+
+
+## Rastergrafik App {data-background="Grafik/Hintergrund/Grafik_.jpg"}
+
+- Nimbus Clipper
+- [https://play.google.com/store/apps/details?id=com.fvd.nimbus](https://play.google.com/store/apps/details?id=com.fvd.nimbus)
+- Foto: [flic.kr/p/ggQHJa](https://flic.kr/p/ggQHJa)
+
+
+## {data-background="Grafik/Hintergrund/Grafik_.jpg"}
+
+![](Grafik/Grafik/NimbusClipper-Ergebnis.jpg)
+Grafik: Nimbus Clipper Ergebnis
+
+
+## Vektorgrafik App {data-background="Grafik/Hintergrund/Grafik_.jpg"}
+
+- DrawExpress Diagram Lite [https://play.google.com/store/apps/details?id=com.drawexpress.lite](https://play.google.com/store/apps/details?id=com.drawexpress.lite)
+
+- Gestenbasiert
+
+
+## {data-background="Grafik/Hintergrund/Grafik_.jpg"}
+
+![](Grafik/Grafik/DrawExpress-Screenshot.png)
+Grafik: DrawExpress Diagram Lite Bildschirmfoto
+
+## <span class="iframe">Webseite: [www.drawexpress.com/mtut.html](http://www.drawexpress.com/mtut.html)</span> {data-background="Grafik/Hintergrund/Grafik_.jpg"}
+
+<iframe data-src="http://www.drawexpress.com/mtut.html"></iframe>
+
+
+## Referenzen {data-background="Grafik/Hintergrund/Grafik_.jpg"}
+
+<div class="quellen">
+
+- App "<span class="highlight">DrawExpress Diagram Lite</span>" &middot;
+  [www.drawexpress.com](http://www.drawexpress.com/) &middot;
+  [play.google.com/store/apps/details?id=com.drawexpress.lite](https://play.google.com/store/apps/details?id=com.drawexpress.lite)
+- App "<span class="highlight">Nimbus Clipper - Clip Anything</span>" &middot;
+  [nimbus.everhelper.me](https://nimbus.everhelper.me/) &middot;
+  [play.google.com/store/apps/details?id=com.fvd.nimbus](https://play.google.com/store/apps/details?id=com.fvd.nimbus)
+- Grafik "DMU 60 Milling Machine":
+  [flic.kr/p/ggQHJa](https://flic.kr/p/ggQHJa) &middot;
+  Doggettx &middot;
+  [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) Lizenz
+- Hintergrundgrafik:
+  [www.pexels.com/photo/camera-old-vintage-photos-35107/](https://www.pexels.com/photo/camera-old-vintage-photos-35107/) &middot;
+  Dariusz Sankowski &middot;
+  [CC0 1.0](http://creativecommons.org/publicdomain/zero/1.0/) Lizenz
+
 </div>
 
 # Technologien {data-background="Grafik/Hintergrund/Technologien.jpg"}
@@ -548,146 +693,6 @@ Bielefeld: Bertelsmann.
   [gratisography.com](http://gratisography.com) &middot;
   Ryan McGuire &middot;
   [CC0 1.0](http://creativecommons.org/publicdomain/zero/1.0/) Lizenz
-</div>
-
-# Android {data-background="Grafik/Hintergrund/Android.jpg"}
-
-
-## {data-background="Grafik/Hintergrund/Android_.jpg"}
-
-![](Grafik/Android/Screen.jpg)
-
-
-## {data-background="Grafik/Hintergrund/Android_.jpg"}
-
-![](Grafik/Android/Screen_Einstellungen.jpg)
-
-
-## {data-background="Grafik/Hintergrund/Android_.jpg"}
-
-![](Grafik/Android/Screen_Zurueck_Home_Menu.jpg)
-
-
-## {data-background="Grafik/Hintergrund/Android_.jpg"}
-
-![](Grafik/Android/Screen_Aktive_Apps.jpg)
-
-
-## {data-background="Grafik/Hintergrund/Android_.jpg"}
-
-![](Grafik/Android/Screen_Browser_Apps_Einstellungen_Store.jpg)
-
-
-## Android Berechtigungen {data-background="Grafik/Hintergrund/Android_.jpg"}
-
-![](Grafik/Android/Berechtigungen.svg)
-
-
-## {data-background="Grafik/Hintergrund/Android_.jpg"}
-
-![](Grafik/Android/AndroidBloom.png)
-
-
-## {data-background="Grafik/Hintergrund/Android_.jpg"}
-
-![](Grafik/Android/PadagogyRad41.jpg)
-
-
-## Apps (exemplarisch) {data-background="Grafik/Hintergrund/Android_.jpg"}
-
-- 10 empfehlenswerte Maschinenbau-Apps
-  [blog.item24.de/artikel-details/show-blog-article/wissen/10-empfehlenswerte-maschinenbau-apps.html](http://blog.item24.de/artikel-details/show-blog-article/wissen/10-empfehlenswerte-maschinenbau-apps.html)
-- Walter Apps: Zerspanungsrechner / Verschleiß Optimierung
-  [www.walter-tools.com/de-de/press/media-portal/apps](http://www.walter-tools.com/de-de/press/media-portal/apps)
-- Carl Zeiss: Form und Lage
-  [play.google.com/store/apps/details?id=de.zeiss.imt.formundlage&hl=de](https://play.google.com/store/apps/details?id=de.zeiss.imt.formundlage&hl=de)
-
-
-## Referenzen {data-background="Grafik/Hintergrund/Android_.jpg"}
-
-<div class="quellen">
-
-- Grafik "Android Apps to Support Bloom's Revised Taxonomy" &middot;
-  [www.schrockguide.net/bloomin-apps.html](http://www.schrockguide.net/bloomin-apps.html) &middot;
-  Kathy Schrock
-- Grafik "Padagogy Rad"
-  [integrate2learn.com](https://integrate2learn.com/) &middot;
-  Basierend auf dem Papdagogy Wheel von Allan Carrington  &middot;
-  [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) Lizenz
-- Hintergrundgrafik:
-  [flic.kr/p/aq4Xk8](https://flic.kr/p/aq4Xk8) &middot;
-  Rob Bulmahn &middot;
-  [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) Lizenz
-</div>
-
-# <span style="color:#fff">Arbeiten mit Grafiken</span> {data-background="Grafik/Hintergrund/Grafik.jpg"}
-
-
-## Vor- und Nachteile {data-background="Grafik/Hintergrund/Grafik_.jpg"}
-
-<strong>Rastergrafik</strong>
-
-- bestehen aus gefärbten Pixeln
-- Kompression
-- z.B. Foto im JPEG-Format
-
-<strong>Vektorgrafik</strong>
-
-- aus grafischen Primitiven  
-  (Linien, Polygone, Kurven)
-- Skalierung
-- z.B. Strichzeichnungen
-
-
-## Rastergrafik App {data-background="Grafik/Hintergrund/Grafik_.jpg"}
-
-- Nimbus Clipper
-- [https://play.google.com/store/apps/details?id=com.fvd.nimbus](https://play.google.com/store/apps/details?id=com.fvd.nimbus)
-- Foto: [flic.kr/p/ggQHJa](https://flic.kr/p/ggQHJa)
-
-
-## {data-background="Grafik/Hintergrund/Grafik_.jpg"}
-
-![](Grafik/Grafik/NimbusClipper-Ergebnis.jpg)
-Grafik: Nimbus Clipper Ergebnis
-
-
-## Vektorgrafik App {data-background="Grafik/Hintergrund/Grafik_.jpg"}
-
-- DrawExpress Diagram Lite [https://play.google.com/store/apps/details?id=com.drawexpress.lite](https://play.google.com/store/apps/details?id=com.drawexpress.lite)
-
-- Gestenbasiert
-
-
-## {data-background="Grafik/Hintergrund/Grafik_.jpg"}
-
-![](Grafik/Grafik/DrawExpress-Screenshot.png)
-Grafik: DrawExpress Diagram Lite Bildschirmfoto
-
-## <span class="iframe">Webseite: [www.drawexpress.com/mtut.html](http://www.drawexpress.com/mtut.html)</span> {data-background="Grafik/Hintergrund/Grafik_.jpg"}
-
-<iframe data-src="http://www.drawexpress.com/mtut.html"></iframe>
-
-
-## Referenzen {data-background="Grafik/Hintergrund/Grafik_.jpg"}
-
-<div class="quellen">
-
-- App "<span class="highlight">DrawExpress Diagram Lite</span>" &middot;
-  [www.drawexpress.com](http://www.drawexpress.com/) &middot;
-  [play.google.com/store/apps/details?id=com.drawexpress.lite](https://play.google.com/store/apps/details?id=com.drawexpress.lite)
-- App "<span class="highlight">Nimbus Clipper - Clip Anything</span>" &middot;
-  [nimbus.everhelper.me](https://nimbus.everhelper.me/) &middot;
-  [play.google.com/store/apps/details?id=com.fvd.nimbus](https://play.google.com/store/apps/details?id=com.fvd.nimbus)
-- Grafik "DMU 60 Milling Machine":
-  [flic.kr/p/ggQHJa](https://flic.kr/p/ggQHJa) &middot;
-  Doggettx &middot;
-  [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) Lizenz
-- Hintergrundgrafik:
-  [www.pexels.com/photo/camera-old-vintage-photos-35107/](https://www.pexels.com/photo/camera-old-vintage-photos-35107/) &middot;
-  Dariusz Sankowski &middot;
-  [CC0 1.0](http://creativecommons.org/publicdomain/zero/1.0/) Lizenz
-
 </div>
 
 # Software-Architektur, <br /> Datensicherheit {data-background="Grafik/Hintergrund/Architektur.jpg"}
